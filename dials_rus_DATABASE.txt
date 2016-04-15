@@ -1,0 +1,898 @@
+||||||||||||||База данных||||||||||||||
+=================== ГЕРОИ ===================
+1:hungryHoarder
+2:blissfulBillows
+3:bootyDestroyer
+4:drunkenBeast
+5:virtuousBlossom
+6:heianBurden
+7:bombasticVisionary
+8:deadlyVerse
+9:vivaciousHollows
+10:halvedVoltage
+11:vanguardDemolitionist
+12:victoriousVigilante
+13:ballsyHellraiser
+14:MAILBOXSPRITE
+15:UNZANSPRITE
+16:TINYSPRITE
+17:BISHAMONSPRITE
+18:MYOURENSPRITE
+19:GRIFFINSPRITE
+20:TATARASPRITE
+21:YOSHIKASPRITE
+22:MONKEYSPRITE
+23:EMBRYOSPRITE
+24:SOGASPRITE
+25:ONMYOJISPRITE
+26:TANUKISPRITE
+27:???
+28:YAMABIKOSPRITE
+29:SHARKSPRITE
+=================== КЛАССЫ ===================
+1:N/A
+2:rodkind
+3:ringkind
+4:ladlekind
+5:anchorkind
+6:lampkind
+7:spearkind
+8:scrollkind
+9:tridentkind
+10:broomkind
+11:clawkind
+12:spadekind
+13:bowkind
+14:disckind
+15:bladekind
+16:bolakind
+17:jokerkind
+=================== НАВЫКИ ===================
+1:Attack
+Damages the enemy.
+2:Guard
+Protects user and reduces damage taken.
+3:Dual Attack
+Hits an enemy twice!
+4:Double Attack
+Attacks two random enemies.
+5:Triple Attack
+Attacks three random enemies.
+6:Escape
+Enemy action. Causes enemy to flee from battle.
+7:Wait
+Does nothing.
+8:Fire Breath
+Deals fire damage to all enemies.
+9:Ice Breath
+Deals ice damage to all enemies.
+10:Shock
+Deals ice damage to all enemies.
+11:Poison Cloud
+Poison all enemies.
+12:Dark Cloud
+Blinds all enemies.
+13:Forget Cloud
+Silences all enemies.
+14:Sonic Wave
+Confuses all enemies.
+15:Confusion Song
+Confuses all enemies.
+16:Sleep Breath
+Puts all enemies to sleep.
+17:Sleep Pollen
+Puts all enemies to sleep.
+18:Paralyze Breath
+Paralyzes all enemies.
+19:Paralyze Stare
+Paralyzes a single enemy.
+20:Sweep Kick
+Attempt to stun an enemy.
+21:Bodyslam
+Damages enemy and attempt to stun enemy.
+22:Shout
+Stuns all enemies.
+23:Vampire
+Absorbs enemy's HP.
+24:Meditate
+Recovers user's HP.
+25:--------------------
+
+26:Heal
+Restores HP to one ally.
+27:Heal II
+Restores HP to one ally.
+28:Heal III
+Restores HP to one ally.
+29:Recovery
+Restores HP to all allies.
+30:Recovery II
+Restores HP to all allies.
+31:Cure
+Cures poison and paralsys.
+32:Cure II
+Cures many status ailments.
+33:Raise
+Revives a fallen ally.
+34:Raise II
+Revives a fallen ally with a lot of HP.
+35:Poison
+Poisons all enemies.
+36:Blind
+Blinds all enemies.
+37:Silence
+Silences all enemies.
+38:Confuse
+Confuses all enemies.
+39:Sleep
+Puts all enemies to sleep.
+40:Paralyze
+Paralyzes all enemies.
+41:Breath Weapon
+Increase one ally's ATK.
+42:Breath Armour
+Increase one ally's DEF.
+43:Divine Breath
+Increase one ally's MDF.
+44:Quick Move
+Increase one ally's AGI.
+45:Curse Weapon
+Lower all enemies' ATK.
+46:Curse Armour
+Lower all enemies' DEF.
+47:Divine Curse
+Lower all enemies' MDF.
+48:Slow Move
+Lower all enemies' AGI.
+49:Life Drain
+Drains HP from one enemy.
+50:Mana Drain
+Drains MP from one enemy.
+51:Fire
+Deals fire damage to one enemy.
+52:Fire II
+Deals fire damage to one enemy.
+53:Flame
+Deals fire damage to all enemies.
+54:Flame II
+Deals fire damage to all enemies.
+55:Ice
+Deals ice damage to one enemy.
+56:Ice II
+Deals ice damage to one enemy.
+57:Blizzard
+Deals ice damage to all enemies.
+58:Blizzard II
+Deals ice damage to all enemies.
+59:Thunder
+Deals lightning damage to one enemy.
+60:Thunder II
+Deals lightning damage to one enemy.
+61:Spark
+Deals lightning damage to all enemies.
+62:Spark II
+Deals lightning damage to all enemies.
+63:Water
+Deals water damage to one enemy.
+64:Wave
+Deals water damage to all enemies.
+65:Stone
+Deals earth damage to one enemy.
+66:Quake
+Deals earth damage to all enemies.
+67:Wind
+Deals wind damage to one enemy.
+68:Tornado
+Deals wind damage to all enemies.
+69:Saint
+Deals holy damage to one enemy.
+70:Starlight
+Deals holy damage to all enemies.
+71:Shade
+Deals dark damage to one enemy.
+72:Darkness
+Deals dark damage to all enemies.
+73:Burst
+Deals defense ignoring damage to one enemy.
+74:Nuclear
+Deals defense ignoring damage to all enemies.
+75:--------------------
+
+76:Fire Weapon
+For 5 turns, user gains fire attribute.
+77:Ice Weapon
+For 5 turns, user gains ice attribute.
+78:Thunder Weapon
+For 5 turns, user gains lightning attribute.
+79:--------------------
+
+80:Strong Attack
+A strong attack against one enemy.
+81:Cleave
+An attack against all enemies.
+82:Berserker's Roar
+For 5 turns, increase ATK of party.
+83:Berserker's Dance
+Axe skill. Powerful attack against 3 random enemies.
+84:Giant's Rampage
+Axe Skill. A strong attack against all enemies.
+85:Tackle
+Attack that may offset an enemy's balance.
+Damage is based on user's ATK and DEF.
+86:Chakra
+User cures all status ailments.
+87:Tiger Stance
+For 3 turns, counterattack and cancel enemy attacks.
+88:No Shadow Kick
+Deal defense ignoring damage to all enemies.
+Skill triggers quicker than usual.
+89:Claw Dance
+Claw Skill. Deals damage to one enemy twice.
+Ignores defense.
+90:Cover
+For 1 turn, protect allies with low HP.
+91:Provoke
+For 5 turns, user is more likely to be attacked.
+92:Super Guard
+For 3 turns, heavily reduce physical damage taken.
+93:Restrengthen
+For 5 turns, greatly boost DEF for party.
+94:Zero Storm
+Spear Skill. Strong attack to 3 random enemies.
+95:Aura Blade
+Sword Skill. Attacked enemy may be silenced.
+Damage is based off user's ATK and MAT.
+96:Dispel
+Cancels enemy enchantments.
+97:Magic Barrier
+For 5 turns, greatly boost DEF for party.
+98:Reinforce
+For 5 turns, grants user fire, ice, and lightning
+attributes.
+99:Radiant Blade
+Sword Skill. Strong magical attack to all enemies.
+Damage is based on user's ATK and MAT.
+100:Yoroidoshi
+Deals defense ignoring damage to one enemy.
+101:Shintou Mekkyaku
+Increases a little bit of TP.
+102:Hassou
+For 5 turns, increase user's ATK and DEF.
+103:Tsubamekaeshi
+Katana Skill. All out attack against all enemies.
+104:Ouka Mugen jin
+Katana Skill. Attacks all enemies 4 times.
+105:Weapon Break
+Attacks enemy and lowers ATK.
+106:Armour Break
+Attacks enemy and lowers DEF.
+107:Zero Shadow
+For 5 turns, greatly boost AGI for user.
+108:Triple Shot
+Bow Skill. Strong attack against 3 random enemies.
+Damage is based on user's ATK and AGI.
+109:Thousand Arrows
+Bow Skill. Strong attack against all enemies 3 times.
+Damage is based on user's ATK and AGI.
+110:Vanish
+For 5 turns, user is less likely to be attacked.
+111:Flare
+Blinds all enemies.
+112:Thief's Luck
+For 8 turns, greatly boost LUK for user.
+113:Assassin's Edge
+Dagger Skill. Strong attack hits one enemy twice.
+Damage is based on user's ATK and LUK.
+114:Valiant Edge
+Dagger Skill. Strong attack hits 4 random enemies.
+Damage is based on user's ATK and LUK.
+115:Spirit's Blessing
+For 3 turns, party's DEF increases.
+116:Fairy's Breath
+For 4 turns, regenerate party's HP.
+117:God's Will
+Holy damage against all enemies.
+118:Goddess' Embrace
+For 7 turns, greatly increase DEF and MDF for party.
+119:Magic Reflect
+For 1 turn, reflect enemy magic attacks.
+120:Enhance Spell
+For 5 turns, greatly increase user's MAT.
+121:Nightmare
+Puts all enemies to sleep and greatly lower their MDF.
+122:Magic Torrent
+Recovers 50% of MaxMP.
+123:Magic Pulse
+For 4 turns, user has MP regen.
+124:Spell Resistance
+For 3 turns, user evades all magic attacks.
+125:Mana Barrier
+For 5 turns, party is immune to status ailments.
+126:Mystic Spell
+For 5 turns, reduce the MP cost of spells for user.
+=================== ПРЕДМЕТЫ ===================
+1:
+
+=================== ОРУЖИЕ ===================
+1:Hand Ax
+Small ax used for harvesting wood.
+2:Battle Axe
+Double-sided axe made for combat.
+3:Bardiche
+Three crescent blades on this axe.
+4:Mithril Axe
+Mithril axe made of the magic mineral.
+5:Crimson Axe
+Crimson soaked battle axe.
+6:Gigantes Axe
+Heavy axe used by giants.
+7:Cestus
+Spikes appear on the head of this glove.
+8:Bagna
+Fighting weapon with four short nails.
+9:Iron Claw
+Its claws are made of steel.
+10:Mithril Claw
+Mithril claw made of the magic mineral.
+11:Dragon Fang
+The claw head is made of dragon fangs.
+12:Zephyrus Claw
+Four winds empower this claw.
+13:Spear
+A short spear.
+14:Partisan
+A long spear with a long blade.
+15:Halberd
+An axe is mounted on this spear.
+16:Mithril Spear
+Mithril spear made of the magic mineral.
+17:Holy Lance
+A white spirit blessed this holy spear.
+18:Gaebulg Spear
+Contains deeply engraved shadow magic.
+19:Short Sword
+Light and easy-to-use short sword.
+20:Long Sword
+The strength of the longest combat sword.
+21:Falcion
+A broad sword with a crescent blade.
+22:Mithril Sword
+Mithril sword made of the magic mineral.
+23:Rune Blade
+Engraved with magical runes.
+24:Tyrfing Sword
+The magic sword that brings triumph over evil.
+25:Katana
+Has a slender sword inscription.
+26:Zanbatou
+Excellent sword with destructive power.
+27:Toratouru
+A short sword tempered with frost.
+28:Reigin no Tachi
+Magic katana made of the magic mineral.
+29:Shichishitou
+An ancient sword with hidden power.
+30:Muramasa Katana
+A demonic sword that sucks the life of the wielder.
+31:Shortbow
+A shortbow made for hunting.
+32:Longbow
+The circular shape grants it strength.
+33:Crossbow
+Shoots a crossbow arrow from a strong string.
+34:Mithril Bow
+Mithril bow made of the magic mineral.
+35:Ebon Bow
+A bow made from the earth spirits.
+36:Artemis Bow
+A bow that bears the name of the Moon Goddess.
+37:Knife
+Your run-of-the-mill knife.
+38:Dagger
+A dagger with a large blade made for combat.
+39:Main Gauche
+Knife used for fending off attacks.
+40:Mithril Knife
+Mithril knife made of the magic mineral.
+41:Assassin's Dagger
+Used for assassinations.
+42:Vortex Blade
+Bears the name of an intense maelstrom.
+43:Mace
+A circular club with metal spikes.
+44:Flail
+An iron ball dangling from a chain.
+45:War Hammer
+A steel hammer made for battle.
+46:Mithril Mace
+Mithril mace made of the magic mineral.
+47:Ground Breaker
+The earth can crack from this magical hammer.
+48:Mourner Hammer 
+The "Crusher" is what the God of War nicknamed this.
+49:Wood Staff
+Sturdy staff made of oak.
+50:Magic Staff
+An orb attached to this staff helps with casting magic.
+51:Force Wand
+Silver amplifies the magic cast from this wand.
+52:Mithril Rod
+Mithril rod made of the magic mineral.
+53:Spirit Staff
+A cane made from an old tree of mistletoe.
+54:Magic Wand Azert
+A magic wand embedded with the Philosopher's Stone.
+55:Flint Lock
+Antique pistol with a funky brace.
+56:Musket
+A gun used by musketeers.
+57:Dragoon
+Used by the cavalry.
+58:Mithril Gun
+Mithril gun made of the magic mineral.
+59:Peacemaker
+Revolving pistol that uses black powder.
+60:Etherblast Gun
+A magical gun that shoots bullets from nothing.
+=================== БРОНЯ ===================
+1:Casual Clothes
+Very lightweight clothes.
+2:Leather Top
+Made with the best leather.
+3:Adventurer's Garb
+Worn clothing that can withstand a harsh journey.
+4:Hard Leather
+Hardened leather vest.
+5:Brigandine
+Clothing made with reinforced steel.
+6:Bandana
+Headband cloth that protects the head.
+7:Leather Bandana
+Headband made of leather to protect the head.
+8:Fur Hat
+Hat made of fur.
+9:Turban
+Thick cloth wrapped repeatedly around one's head.
+10:Feather Cap
+Stylish hat with feathers from many beautiful birds.
+11:Cotton Robe
+A robe made of thick cotten.
+12:Silk Cloak
+A cloak made of fine silk.
+13:Runed Robe
+A lined robe engraved with runes.
+14:Hermit Robe
+Robe worn by a wise old man.
+15:Elemental Cloak
+The power of the spirit king dwells in this robe.
+16:Copper Brace
+Hair ornaments made of copper.
+17:Circlet
+A ring-shaped ornament made of iron.
+18:Silver Hairpin
+Hair accessory that enhances magic.
+19:Mithril Circlet
+Mithril circlet made of the magic mineral.
+20:Magi's Crown
+Empowered by an ancient magical civilization's power.
+21:Leather Mail
+Armour made with overlapping leather.
+22:Bronze Plate
+A breastplate made of bronze.
+23:Iron Plate
+A breastplate made of iron.
+24:Mithril Plate
+Mithril breastplate made of the magic mineral.
+25:Dragon Plate
+A breastplate made from dragon scales.
+26:Leather Hap
+A hat made out of leather.
+27:Bronze Cap
+A reinforced hat made with bronze.
+28:Sarett
+A hat made with steel.
+29:Mithril Cap
+Mithril cap made of the magic mineral.
+30:Dragon Cap
+A hat made of dragon scales.
+31:Chain Mail
+Armour made with iron chains.
+32:Iron Armour
+Armour made of steel.
+33:Plate Mail
+Knights wear plate mail.
+34:Mithril Armour
+Mithril armour made of the magic mineral.
+35:Dragon Armour
+Armour made from dragon scales.
+36:Chain Helm
+Helmet made of iron chains.
+37:Iron Helm
+Helmet made of steel.
+38:Knight Helm
+Knights wear this helm.
+39:Mithril Helm
+Mithril helm made of the magic mineral.
+40:Dragon Helm
+Helmet made of dragon scales.
+41:Buckler
+A small shield used to fend off attacks.
+42:Round Shield
+A circular shield with a reinforced steel frame.
+43:Spike Shield
+A shield with spikes on its surface for offense.
+44:Mithril Buckler
+Mithril buckler made of the magic mineral.
+45:Dragon Buckler
+Buckler made of dragon scales.
+46:Wood Shield
+A shield made with hard wood.
+47:Iron Shield
+Shield made of steel.
+48:Knight Shield
+Knights use this shield.
+49:Mithril Shield
+Mithril shield made of the magic mineral.
+50:Dragon Shield
+Shield made of dragon scales.
+51:War God's Belt
+Metal belt engraved with the War God's name.
+52:Defense Piece
+Hung at the magic forest for defense.
+53:Winged Boots
+The holy spirit of the wind dwell in these boots.
+54:Earth's Embrace
+The power of the earth protects the wearer.
+55:Lucky Charm
+A charm engraved with the name of the goddess of luck.
+56:Holy Symbol
+A symbol worn by those who serve God.
+57:Solomon's Ring
+A ring with the hidden power of a genie.
+58:Odin's Necklace
+A magic necklace that empowers those who fight.
+59:Eyepatch of Fury
+An eyepatch worn by powerful berserkers.
+60:Talisman of Light
+The king of gods dwell in this talisman.
+=================== ПРОТИВНИКИ ===================
+1:Slime
+2:Bat
+3:Hornet
+4:Spider
+5:Rate
+6:Wisp
+7:Large Snake
+8:Scorpion
+9:Jellyfish
+10:Man-Eating Plant
+11:Ghost
+12:Skeleton
+13:Orc
+14:Imp
+15:Gazer
+16:Puppet
+17:Zombie
+18:Cockatrice
+19:Chimera
+20:Mimic
+21:Werewolf
+22:Sahagin
+23:Ogre
+24:Gargoyle
+25:Lamia
+26:Vampire
+27:Succubus
+28:Demon
+29:Demon King
+30:Demon God
+=================== ГРУППЫ ВРАГОВ ===================
+1:Slime*2
+2:Bat*2
+3:Hornet*2
+4:Spider*3
+5:Rate*3
+6:Wisp*3
+7:Large Snake*2
+8:Scorpion*3
+9:Jellyfish*2
+10:Man-Eating Plant*3
+11:Ghost*3
+12:Skeleton*2
+13:Orc*3
+14:Imp*2
+15:Gazer*3
+16:Puppet*2
+17:Zombie*3
+18:Cockatrice*2
+19:Chimera
+20:Mimic
+21:Werewolf*2
+22:Sahagin*2
+23:Ogre
+24:Gargoyle*2
+25:Lamia
+26:Vampire
+27:Succubus
+28:Demon
+29:Demon King
+30:Demon God
+=================== СТАТУСЫ ===================
+1:Death
+2:Poison
+3:Blind
+4:Silence
+5:Confusion
+6:Sleep
+7:Paralysis
+8:Stun
+9:Guard
+10:Immortal
+11:Cover
+12:Provoke
+13:Hide
+14:HP Regen
+15:MP Regen
+16:TP Regen
+17:Ironbody
+18:Counterattack
+19:Magic Evade
+20:Magic Reflect
+21:Fire Force
+22:Ice Force
+23:Thunder Force
+24:Ailment Guard
+25:MP Cost Down
+=================== ИМЕНА АНИМАЦИЙ ===================
+1:Hit Physical
+2:Hit Fire
+3:Hit Ice
+4:Hit Thunder
+5:Hit Special 1
+6:Hit Special 2
+7:Slash Physical
+8:Slash Fire
+9:Slash Ice
+10:Slash Thunder
+11:Slash Special 1
+12:Slash Special 2
+13:Pierce Physical
+14:Pierce Fire
+15:Pierce Ice
+16:Pierce Thunder
+17:Pierce Special 1
+18:Pierce Special 2
+19:Blow Physical
+20:Blow Fire
+21:Blow Ice
+22:Blow Thunder
+23:Blow Special 1
+24:Blow Special 2
+25:Breath Fire
+26:Breath Ice
+27:Breath Thunder
+28:Breath Ailment
+29:Pollen
+30:Sonic Wave
+31:Fog
+32:Song
+33:Flash
+34:Shout
+35:Sweep
+36:Bodyslam
+37:Recovery 1
+38:Recovery 2
+39:Recovery 3
+40:Restore 1
+41:Restore 2
+42:Revive
+43:Powerup 1
+44:Powerup 2
+45:Powerdown 1
+46:Powerdown 2
+47:Bind 1
+48:Bind 2
+49:Absorb
+50:Poison
+51:Darken
+52:Silence
+53:Confusion
+54:Sleep
+55:Paralyze
+56:Death
+57:Fire One 1
+58:Fire One 2
+59:Fire All 1
+60:Fire All 2
+61:Ice One 1
+62:Ice One 2
+63:Ice All 1
+64:Ice All 2
+65:Thunder One 1
+66:Thunder One 2
+67:Thunder All 1
+68:Thunder All 2
+69:Water One
+70:Water All
+71:Earth One
+72:Earth All
+73:Wind One
+74:Wind All
+75:Holy One
+76:Holy All
+77:Dark One
+78:Dark All
+79:Neutral One
+80:Neutral All
+81:Skill Activation
+82:Hit 2 Physical
+83:Hit 2 Fire
+84:Hit 2 Ice
+85:Hit 2 Thunder
+86:Hit Special 3
+87:Slash Special 3
+88:Slash Special 4
+89:Slash Special 5
+90:Pierce Special 3
+91:Shoot Normal
+92:Shoot Barrage
+93:Shoot Special
+94:Powerup 3
+95:Powerup 4
+96:Powerdown 3
+97:Powerdown 4
+98:Fire All 3
+99:Ice All 3
+100:Thunder All 3
+101:Water All 2
+102:Earth All 2
+103:Wind All 2
+104:Holy All 2
+105:Dark All 2
+106:Neutral All 2
+107:Light Pillar 1
+108:Light Pillar 2
+109:Ball of Light
+110:Glowing Light
+=================== ТАЙЛСЕТЫ ===================
+1:Interior
+2:Frog Temple
+3:Interior (Object Mode)
+4:Exterior
+5:Ship
+6:Derse
+7:Mausoleum
+8:Exterior (Object Mode)
+9:Ship (Object Mode)
+10:Frog Temple (Lillypad)
+=================== СИСТЕМНЫЕ СТРОКИ ===================
+ShopBuy:Buy
+ShopSell:Sell
+ShopCancel:Cancel
+Possession:Possession
+ExpTotal:Current Exp
+ExpNext:To Next %s
+SaveMessage:S A V E
+LoadMessage:L O A D
+File:Session
+PartyName:%s's Party
+Emerge:%s emerged!
+Preemptive:%s got the upper hand!
+Surprise:%s was surprised!
+EscapeStart:%s has started to escape!
+EscapeFailure:However, it was unable to escape!
+Victory:%s was victorious!
+Defeat:%s was defeated.
+ObtainExp:%s EXP received!
+ObtainGold:%s\G found!
+ObtainItem:%s found!
+LevelUp:%s is now %s %s!
+ObtainSkill:%s learned!
+UseItem:%s uses %s!
+CrticalToEnemy:An excellent hit!!
+CriticalToActor:A painful blow!!
+ActorDamage:%s took %s damage!
+ActorRecovery:%s recovered %s %s!
+ActorGain:%s gained %s %s!
+ActorLoss:%s lost %s %s!
+ActorDrain:%s was drained of %s %s!
+ActorNoDamage:%s took no damage!
+ActorNoHit:Miss! %s took no damage!
+EnemyDamage:%s took %s damage!
+EnemyRecovery:%s recovered %s %s!
+EnemyGain:%s gained %s %s!
+EnemyLoss:%s lost %s %s!
+EnemyDrain:Drained %s %s from %s!
+EnemyNoDamage:%s took no damage!
+EnomyNoHit:Missed! %s took no damage!
+Evasion:%s evaded the attack!
+MagicEvasion:%s nullified the magic!
+MagicReflection:%s reflected the magic!
+CounterAttack:%s counterattacked!
+Substitute:%s protected %s!
+BuffAdd:%s's %s went up!
+DebuffAdd:%s's %s went down!
+BuffRemove:%s's %s returned to normal.
+ActionFailure:There was no effect on %s!
+PlayerPosError:Player's starting position is not set.
+EventOverflow:Common event calls exceeded the limit.
+=================== ТЕРМИНЫ ===================
+ЭЛЕМЕНТЫ:
+1:Physical
+2:Absorb
+3:Fire
+4:Ice
+5:Thunder
+6:Water
+7:Earth
+8:Wind
+9:Holy
+10:Dark
+ТИПЫ СКИЛЛОВ:
+1:Special
+2:Magic
+ТИПЫ ОРУЖИЯ:
+1:Axe
+2:Claw
+3:Spear
+4:Sword
+5:Katana
+6:Bow
+7:Dagger
+8:Hammer
+9:Staff
+10:Gun
+ТИПЫ БРОНИ:
+1:General Armour
+2:Magic Armour
+3:Light Armour
+4:Heavy Armour
+5:Small Shield
+6:Large Shield
+ТЕРМИНЫ:
+Level:Level
+Level (short):LV
+HP:HP
+HP (short):HP
+MP:MP
+MP (short):MP
+TP:TP
+TP (short):TP
+MHP:MaxHP
+MMP:MaxMP
+ATK:ATK
+DEF:DEF
+MAT:MAT
+MDF:MDF
+AGI:AGI
+LUK:LUK
+Weapon:Weapon
+Shield:Shield
+Head:Headgear
+Body:Bodygear
+Accessory:Accessory
+Fight:Fight
+Escape:Escape
+Attack:Attack
+Defend:Guard
+Item:Items
+Skill:Skills
+Equip:Equipment
+Status:Status
+Sort:Formation
+Save:Save
+Exit Game:Game End
+(not used):
+Weapon:Weapons
+Armor:Armours
+Key Item:Key Items
+Change Equipment:Change
+Ultimate Equipment:Optimize
+Remove All:Clear
+New Game:New Game
+Continue:Continue
+Shut Down:Shutdown
+Go to Title:To Title
+Cancel:Cancel
+
+
