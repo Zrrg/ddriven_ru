@@ -1,0 +1,1 @@
+Dialogues extracted with http://rpgmaker.su/f104/dialogs-exporter-importer-2012/
