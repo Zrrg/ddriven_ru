@@ -14,17 +14,17 @@
 Номер:7
 Название:AutoSave
 0000001:
-Return to hub?
+Вернуться в хаб?
 0000002:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000003:
-Save your progress?
+Сохраниться?
 0000004:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000005:
-Now saving\..\..\..\^
+Сохраняется\..\..\..\^
 Номер:8
 Название:ManualSave
 Номер:9
@@ -63,37 +63,37 @@ Now saving\..\..\..\^
 0000006:
 Вставлен Диск 2.\.
 0000007:
-Save data has been found. 
-Would you like to resume your session?
+Найдено сохранение.
+Продолжить сессию?
 0000008:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000009:
-Now resuming your Desiredriven session...\.
+Возобновление вашей сессии Desiredriven...\.
 0000010:
-If you decline, the game will be forced to throw you back
-to a more stable section in the session.
+Если вы откажетесь, игре придётся отбросить вас
+в более стабильную секцию в сессии.
 
-...Proceed anyway?
+...Всё равно продолжить?
 0000011:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000012:
 Этøт дÎск øс€рь€знø пов™р€жд€н. \.
 
-You can no lcœger play DεsÎreδrivεπ. \.
+Вы бœøльш€ н€ мœжете Îграть в DεsÎreδrivεπ. \.
 0000013:
-RequεstiÎng scratςh RεφΔir\..\..\..
+Не€бходимø Îςправлεни€ цΔрапÎны\..\..\..
 0000014:
-Please ψait a mθmeπτ\..\..\..
+Пожалψйста, πодθждиτе\..\..\..
 0000015:
-RεφΔirÎng scratςh\..\..\..
+Îςправлεни€ цΔрапÎны\..\..\..
 0000016:
-Repair complete. \.\.
+Исправление завершено. \.\.
 0000017:
-Inserted Disc 2.\.
+Вставлен диск 2.\.
 
-You may resume playing Desiredriven.\.
+Вы можете продолжить играть в Desiredriven.\.
 
 
 ||||||||||||||КАРТА 008||||||||||||||
