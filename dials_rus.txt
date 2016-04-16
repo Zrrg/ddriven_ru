@@ -105,12 +105,12 @@
 Событие №:1
 Событие №:2
 0000018:Варианты выбора:
-Byakuren: Examine WALL SCROLL.
-Byakuren: 
+Бякурен: Изучить НАСТЕННЫЙ СВИТОК.
+Бякурен: 
 0000019:
-You're particularly proud of this scroll which is why you've 
-left it hanging up here right above your bed. It used to be 
-your brother's, back when he was still around. 
+Ты особенно гордишься этим свитком, именно поэтому
+ты оставила его висеть прямо тут над твоей кроватью.
+Он принадлежал твоему брату, пока тот был ещё тут.
 Событие №:3
 0000020:
 Вот юная леди в своей комнате. Так уж вышло, что сегодня,
@@ -118,310 +118,310 @@ your brother's, back when he was still around.
 уже несколько лет с того момента, как ей подарили жизнь,
 имя она получит лишь сейчас!
 0000021:
-What will the name of this young lady be?
+Как будут звать эту юную леди?
 0000022:
-Oh, wait, just like everyone else, she came with a 
-DESIGNATED NAMETAG  shortly after her birth. 
-What does that NAMETAG say on it?
+Ох, подождите, как и все остальные, она стала обладателем
+ПРЕДОПРЕДЕЛЕННОГО ИМЕННОГО ЖЕТОНА вскоре после её рождения.
+Что же написано на этом ИМЕННОМ ЖЕТОНЕ?
 0000023:
-\c[30]\.\.\.\>                                               \<BYAKUREN HIJIRI\.\c[0]
+\c[30]\.\.\.\>                                               \<БЯКУРЕН ХИДЗИРИ\.\c[0]
 0000024:
 
 0000025:Варианты выбора:
-Be Byakuren.
+Быть Бякурен.
 0000026:
-Your name is BYAKUREN. As was previously mentioned, 
-and is as written in thousands of other adventures like this, 
-it is your BIRTHDAY. Or at least, what you assume it to be. 
+Твоё имя БЯКУРЕН. Как было сказано раньше, и как это описано
+в тысячах других подобных приключений, это твой ДЕНЬ РОЖДЕНИЯ.
+Или, по крайней мере, ты привыкла так об этом думать.
 0000027:
-Your INTERESTS don't include much, really, as having INTERESTS 
-leads to one being too materialistic, which you perceive as an 
-incredibly BAD THING. Your room is almost empty save for hints 
-of your LOVE FOR SCRIBING and studying PSYCHURGY.
+Твои ИНТЕРЕСЫ не слишком уж и обширны, ведь обладание ИНТЕРЕСАМИ
+ведёт к становлению материалистической личности, что тобой воспринимается
+как нечто ОЧЕНЬ ПЛОХОЕ. Твоя комната практически пуста, за исключением
+некоторых намёков на твою любовь к РУКОПИСЯМ и изучению МЕДИТАЦИИ.
 0000028:
-Just like your late BROTHER, you are an aspiring MAGICIAN. 
-From time to time, you also like to partake in COMPETITIVE 
-ACTIVITIES against people. Additionally, as a health nut, 
-you're actually incredibly fit and STRONG for your age. 
+Как и твой старший БРАТ, ты – амбициозный ВОЛШЕБНИК.
+Время от времени ты любишь принимать участие
+в СОРЕВНОВАТЕЛЬНЫХ ВИДАХ ДЕЯТЕЛЬНОСТИ с другими людьми.
+Кроме того, как фанатик здорового образа жизни,
+ты необычайно хорошо сложена и СИЛЬНА для своего возраста.
 0000029:
-You go by the preachhandle: \c[5]virtuousBlossom\c[0].
+Твой проповедникнейм: \c[5]virtuousBlossom\c[0].
 
-This is the name you use when talking to people online.
+Это имя, которым ты пользуешься, общаясь с людьми онлайн.
 0000030:
-You \c[5]converse in a way that's coated with subtle vilification.\c[0]
+В твоей \c[5]манере речи проскальзывают нотки порицания.\c[0]
 0000031:
-It just so happens that today was also the day that you
-and a few friends decided to initiate in a friendly 
-competition via playing a game another friend had just
-recently coded for the occasion. Competition is fun.
+Так уж совпало, что этот день совпал со днём, когда
+ты и твои друзья решили начать дружественное соревнование,
+поиграв в игру, которую другой твой друг, к вашей удаче,
+как раз недавно закончил программировать. Соревнования это весело.
 0000032:
-However, there's no need to rush. You are free to
-explore around your house before getting down into
-business.\. Right now, you're just waiting for the mail
-to arrive.
+Впрочем, не стоит торопиться. Ты можешь свободно изучить
+закутки твоего дома, прежде чем возвращаться к делу.\.
+Прямо сейчас тебе остаётся лишь ждать почтальона.
 0000033:
-Speak of the devil, looks like someone's at the door.  That
-should probably be the aforementioned package.
+Лёгок на помине, похоже кто-то стоит у двери. Наверняка
+это и есть вышеупомянутая посылка.
 0000034:
 
 0000035:Варианты выбора:
-Byakuren: Retrieve package.
+Бякурен: Получить посылку.
 0000036:Варианты выбора:
-Byakuren: Open package.
+Бякурен: Открыть посылку.
 0000037:
-Oh, it's the OTHER PACKAGE. This one is from your
-DRUNKARD OF A FRIEND. 
+Ох, это ДРУГАЯ ПОСЫЛКА. Она от твоего 
+НЕПРОСЫХАЮЩЕГО ДРУГА. 
 
-There's a little note attached to it.
+К ней прикреплена маленькая записка
 0000038:
 
 0000039:Варианты выбора:
-Byakuren: Read note.
+Бякурен: Прочитать записку.
 0000040:
-\c[4]hey hijiri happy birthday!! don't forget to take the tiger
-back to mike tyson's house without dying!!!  
+\c[4]эй хидзири с днём рождения!! не забудь вернуть тигра
+назад в дом майка тайсона не умирая!!!  
 0000041:
-\c[4]you're a cool friend so i thought you'd want this thing… 
-i've had it since i was little and its kinda important to me and
-you're a cool friend like i said so i'm giving it to you so 
-take care of it ok –from DB\c[0]
+\c[4]ты классный друг так что я  решила что тебе бы 
+хотелось эту штуку… она была у меня с детства и она
+как-бы важна для меня а ты классный друг как я уже говорила
+и я отдаю её тебе поэтому позаботься о ней ладно -от DB\c[0]
 0000042:
-Well, that was nice of them. You're surprised they actually 
-remembered your birthday, though. It seems like they're the 
-only one who sent you anything resembling a present. You're 
-not into material things, but it's a bit heartwarming.
+Ну, это было мило с её стороны. И всё же ты удивлена, что она 
+действительно помнит о твоём Дне рождения. Похоже, она 
+единственная, кто прислал тебе что-то, напоминающее подарок.
+Ты не поклонник материальных вещей, но это немного трогательно.
 0000043:
-You've never seen a real live tiger before in your life.
-They've probably died off due to human cruelty or just 
-overhunting in general. That's a shame, really. 
+Ты никогда в жизни не видела настоящего тигра.
+Они, вероятно, вымерли из-за человеческой жестокости
+или просто слишком интенсивной охоты.
+Очень жаль, правда.
 0000044:
-Or… perhaps, they just never existed in the first place and 
-are just a myth. A made-up creature for bedtime stories.
+Или же… может, они никогда и не существовали и всего
+лишь миф. Выдуманное существо для сказок на ночь.
 
-Who knows? 
+Кто знает?
 0000045:
 
 0000046:Варианты выбора:
-Byakuren: Captchalogue tiger doll.
+Бякурен: Капчалогировать куклу тигра.
 0000047:
 
 0000048:Варианты выбора:
-Byakuren: Consider a complaint.
+Бякурен: Признать недовольство.
 0000049:
-This wasn't the right package. You should go confront the
-expected sender about the whereabouts of the package you've
-been waiting for.
+Это не та посылка. Тебе стоит поговорить с вероятным
+отправителем о местонахождении посылки, которую ты ждёшь.
 Событие №:4
 Событие №:5
 0000050:Варианты выбора:
-Byakuren: Examine COMPUTER.
-Byakuren: Return to hub.
-Cancel.
+Бякурен: Изучить КОМПЬЮТЕР.
+Бякурен: Вернуться в хаб.
+Отмена.
 0000051:
-This is your computer. There's a little camera attached to
-it, as with most computers made this day are. It always
-sort of creeped you out before but you got used to it.
+Это твой компьютер. К нему подключена маленькая
+камера, как и у всех компьютеров, выпускаемых сегодня.
+Раньше она всегда тебя немного пугала, но в итоге ты привыкла.
 0000052:
-With that said, you should probably pick up that package 
-before preaching to your friends.
+Впрочем, тебе стоило бы забрать ту посылку,
+прежде чем читать проповеди друзьям.
 0000053:
-Return to hub?
+Вернуться в хаб?
 0000054:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000055:Варианты выбора:
-Byakuren: Examine COMPUTER.
-Byakuren: Save progress.
-Cancel.
+Бякурен: Изучить COMPUTER.
+Бякурен: Сохраниться.
+Отмена.
 0000056:
-This is your computer. There's a little camera attached to
-it, as with most computers made this day are. It always
-sort of creeped you out before but you got used to it.
+Это твой компьютер. К нему подключена маленькая
+камера, как и у всех компьютеров, выпускаемых сегодня.
+Раньше она всегда тебя немного пугала, но в итоге ты привыкла.
 0000057:
-With that said, you should probably pick up that package 
-before preaching to your friends.
+Впрочем, тебе стоило бы забрать ту посылку,
+прежде чем читать проповеди друзьям.
 0000058:
-Save your progress?
+Сохраниться?
 0000059:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000060:
-Now saving\..\..\..\^
+Сохранение\..\..\..\^
 0000061:Варианты выбора:
-Byakuren: Examine computer.
-Byakuren: Return to hub.
-Cancel.
+Бякурен: Изучить компьютер.
+Бякурен: Вернуться в хаб.
+Отмена.
 0000062:
-You've been spending a lot of your time here, handling business 
-with your faithful followers. There's not much on your desktop 
-aside from zipped up files of unknown contents. Your PREACHBUM
-application is really the only thing you use on here.
+Ты всегда тратила много своего времени здесь, разбираясь с делами
+твоих верующих последователей. На твоём рабочем столе практически 
+пусто, не считая архивов с неизвестным содержимым. Единственная
+вещь, которой тебе тут нужна - твой чат-клиент PREACHBUM. 
 0000063:
 
 0000064:Варианты выбора:
-Byakuren: Open Preachbum.
+Бякурен: Открыть Preachbum.
 0000065:
-There's one person you really want to preach to right now...
+Есть один человек, которому ты правда хочешь прочесть проповедь сейчас...
 0000066:
 
 0000067:Варианты выбора:
-Byakuren: Converse.
+Бякурен: Общаться.
 0000068:
 \c[5]virtuousBlossom [VB]\c[0] 
-started preaching to 
+начала проповедовать для
 \c[1]hungryHoarder [HH]\c[0]
 0000069:talk_byakuren1
-\c[5]VB: Hey, I’m here to inquire about how late
-the package you were planning on sending is. 
-You stated so yourself that you expected it to 
-have arrived at my place on the 13th, didn’t you?
+\c[5]VB: Эй, я пришла, чтобы узнать,
+насколько опаздывает посылка, которую
+ты планировала отправлять. Ты утверждала,
+что она прибудет ко мне 13ого, не так ли?
 0000070:talk_nazrin1
-!pep!\c[1]HH: Well, yeah, it should be there. 
-Don’t doubt me.
+!pep!\c[1]HH: Ну, да, она должна быть там.
+Не сомневайся во мне.
 0000071:talk_byakuren1
-\c[5]VB: I’m not, I’m just asking, in case 
-you forgot.
+\c[5]VB: Я не сомневаюсь, лишь спрашиваю, 
+на случай если ты забыла.
 0000072:talk_nazrin1
-!pep!\c[1]HH: Like I said, don’t doubt me. 
-I went through a lot of crazy bananas shenanigans
-to get that thing set up. I can assure you that 
-it will work just fine and it WILL arrive on time.
+!pep!\c[1]HH: Как я уже говорила, не сомневайся во мне.
+Я прошла через многие безумные заморочки, 
+чтобы заставить эту штуку работать.
+Я могу заверить, что она будет работать отлично
+и она ОБЯЗАТЕЛЬНО прибудет вовремя.
 0000073:talk_nazrin6
-!pep!\c[1]HH: So don’t get on my jock so hard for it, 
-you don’t know who you’re even talking to.
+!pep!\c[1]HH: Так что не вымораживай меня так сильно,
+ты даже не представляешь с кем ты говоришь.
 0000074:talk_byakuren6
-\c[5]VB: Yes, yes, I’m aware of the wannabe 
-army commander I’m conversing with at the 
-moment.
+\c[5]VB: Да, да, я помню о якобы командире армии, 
+с которым общаюсь в данный момент.
 0000075:talk_nazrin1
-!pep!\c[1]HH: You should really watch what you’re 
-saying, Hijiri.\.\. Nevermind, it doesn’t matter, just 
-be patient, it should arrive soon.
+!pep!\c[1]HH: Тебе стоило бы следить за языком, Хидзири.
+Впрочем, это всё не имеет значения, прояви терпение,
+она скоро прибудет.
 0000076:talk_byakuren6
-\c[5]VB: Did you send it after you sent 
-everyone else’s?
+\c[5]VB: Ты отправила мою после того,
+как отослала остальным?
 0000077:talk_nazrin6
-!pep!\c[1]HH: No, your highness, I sent it to you first. 
-Like you asked.
+!pep!\c[1]HH: Нет, ваше высочество, я отправила её
+тебе первой. Как ты и просила.
 0000078:talk_nazrin2
-!pep!\c[1]HH: I've got it sorted out, so don't 
-flip out so much.
+!pep!\c[1]HH: У меня всё под контролем, так что
+не паникуй так сильно.
 0000079:talk_byakuren3
-\c[5]VB: No need to be so condescending, 
-commander.
+\c[5]VB: Нет нужды быть столь снисходительным,
+командир.
 0000080:talk_nazrin1
-!pep!\c[1]HH: Yeah, okay, all I can tell you is 
-to be patient. Chat over, I have other shit to 
-deal with at the moment. Good luck with the
-package.
+!pep!\c[1]HH: Ладно, хорошо, всё что я могу
+сказать тебе прямо сейчас это иметь терпение.
+Разговор окончен, мне нужно разбираться с другим 
+дерьмом. Удачи с посылкой.
 0000081:
 \c[1]hungryHoarder [HH]\c[0] 
-ceased preaching to 
+прекратил проповедовать для
 \c[5]virtuousBlossom [VB]\c[0]
 0000082:
 
 0000083:Варианты выбора:
-Byakuren: Be someone else.
-Byakuren: Continue exploring.
+Бякурен: Быть кем-то ещё
+Бякурен: Продолжить изучать.
 0000084:
-Weeks in the past, but not many,\.
-in a rather secluded part of the planet\..\..\..
+Неделями раньше, но немного,\.
+в довольно уединенной части планеты\..\..\..
 0000085:
-Return to hub?
+Вернуться в хаб?
 0000086:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000087:
-Return to hub?
+Вернуться в хаб?
 0000088:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000089:Варианты выбора:
-Byakuren: Examine computer.
-Byakuren: Save progress.
+Бякурен: Изучить компьютер.
+Бякурен: Сохраниться.
 Cancel.
 0000090:
-You've been spending a lot of your time here, handling business 
-with your faithful followers. There's not much on your desktop 
-aside from zipped up files of unknown contents. Your PREACHBUM
-application is really the only thing you use on here.
+Ты всегда тратила много своего времени здесь, разбираясь с делами
+твоих верующих последователей. На твоём рабочем столе практически 
+пусто, не считая архивов с неизвестным содержимым. Единственная
+вещь, которой тебе тут нужна - твой чат-клиент PREACHBUM. 
 0000091:
 
 0000092:Варианты выбора:
-Byakuren: Open Preachbum.
+Бякурен: Открыть Preachbum.
 0000093:
-There's one person you really want to preach to right now...
+Есть один человек, которому ты правда хочешь прочесть проповедь сейчас...
 0000094:
 
 0000095:Варианты выбора:
-Byakuren: Converse.
+Бякурен: Общаться.
 0000096:
 \c[5]virtuousBlossom [VB]\c[0] 
-started preaching to 
+начала проповедовать для
 \c[1]hungryHoarder [HH]\c[0]
 0000097:talk_byakuren1
-\c[5]VB: Hey, I’m here to inquire about how late
-the package you were planning on sending is. 
-You stated so yourself that you expected it to 
-have arrived at my place on the 13th, didn’t you?
+\c[5]VB: Эй, я пришла, чтобы узнать,
+насколько опаздывает посылка, которую
+ты планировала отправлять. Ты утверждала,
+что она прибудет ко мне 13ого, не так ли?
 0000098:talk_nazrin1
-!pep!\c[1]HH: Well, yeah, it should be there. 
-Don’t doubt me.
+!pep!\c[1]HH: Ну, да, она должна быть там.
+Не сомневайся во мне.
 0000099:talk_byakuren1
-\c[5]VB: I’m not, I’m just asking, in case 
-you forgot.
+\c[5]VB: Я не сомневаюсь, лишь спрашиваю, 
+на случай если ты забыла.
 0000100:talk_nazrin1
-!pep!\c[1]HH: Like I said, don’t doubt me. 
-I went through a lot of crazy bananas shenanigans
-to get that thing set up. I can assure you that 
-it will work just fine and it WILL arrive on time.
+!pep!\c[1]HH: Как я уже говорила, не сомневайся во мне.
+Я прошла через многие безумные заморочки, 
+чтобы заставить эту штуку работать.
+Я могу заверить, что она будет работать отлично
+и она ОБЯЗАТЕЛЬНО прибудет вовремя.
 0000101:talk_nazrin6
-!pep!\c[1]HH: So don’t get on my jock so hard for it, 
-you don’t know who you’re even talking to.
+!pep!\c[1]HH: Так что не вымораживай меня так сильно,
+ты даже не представляешь с кем ты говоришь.
 0000102:talk_byakuren6
-\c[5]VB: Yes, yes, I’m aware of the wannabe 
-army commander I’m conversing with at the 
-moment.
+\c[5]VB: Да, да, я помню о якобы командире армии, 
+с которым общаюсь в данный момент.
 0000103:talk_nazrin1
-!pep!\c[1]HH: You should really watch what you’re 
-saying, Hijiri.\.\. Nevermind, it doesn’t matter, just 
-be patient, it should arrive soon.
+!pep!\c[1]HH: Тебе стоило бы следить за языком, Хидзири.
+Впрочем, это всё не имеет значения, прояви терпение,
+она скоро прибудет.
 0000104:talk_byakuren6
-\c[5]VB: Did you send it after you sent 
-everyone else’s?
+\c[5]VB: Ты отправила мою после того,
+как отослала остальным?
 0000105:talk_nazrin6
-!pep!\c[1]HH: No, your highness, I sent it to you first. 
-Like you asked.
+!pep!\c[1]HH: Нет, ваше высочество, я отправила её
+тебе первой. Как ты и просила.
 0000106:talk_nazrin2
-!pep!\c[1]HH: I've got it sorted out, so don't 
-flip out so much.
+!pep!\c[1]HH: У меня всё под контролем, так что
+не паникуй так сильно.
 0000107:talk_byakuren3
-\c[5]VB: No need to be so condescending, 
-commander.
+\c[5]VB: Нет нужды быть столь снисходительным,
+командир.
 0000108:talk_nazrin1
-!pep!\c[1]HH: Yeah, okay, all I can tell you is 
-to be patient. Chat over, I have other shit to 
-deal with at the moment. Good luck with the
-package.
+!pep!\c[1]HH: Ладно, хорошо, всё что я могу
+сказать тебе прямо сейчас это иметь терпение.
+Разговор окончен, мне нужно разбираться с другим 
+дерьмом. Удачи с посылкой.
 0000109:
 \c[1]hungryHoarder [HH]\c[0] 
-ceased preaching to 
+прекратил проповедовать для
 \c[5]virtuousBlossom [VB]\c[0]
 0000110:
 
 0000111:Варианты выбора:
-Byakuren: Be someone else.
-Byakuren: Continue exploring.
+Бякурен: Быть кем-то другим.
+Бякурен: Продолжить изучать.
 0000112:
-Weeks in the past, but not many,\.
-in a rather secluded part of the planet\..\..\..
+Неделями раньше, но немного,.
+в довольно уединенной части планеты\..\..\..
 0000113:
-Save your progress?
+Сохраниться?
 0000114:Варианты выбора:
-Yes
-No
+Да
+Нет
 0000115:
-Now saving\..\..\..\^
+Сохранение\..\..\..\^
 Событие №:6
 Событие №:7
 Событие №:8
