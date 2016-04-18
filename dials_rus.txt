@@ -426,58 +426,58 @@ Cancel.
 Событие №:7
 Событие №:8
 0000116:Варианты выбора:
-Byakuren: Examine CABINET.
-Cancel.
+Бякурен: Изучить ШКАФ.
+Отмена
 0000117:
-Nothing of interest in here. You don't wear much as there's 
-no need to have an over-abundance of clothing. Material things 
-are poisonous to the soul.
+Здесь ничего интересного. Ты не носишь многого,
+так как нет нужды в изобилии одежды. Материальные
+предметы ядовиты для души.
 Событие №:9
 0000118:Варианты выбора:
-Byakuren: Examine SURVIVAL GUIDE.
-Cancel.
+Бякурен: Изучить РУКОВОДСТВОПО ВЫЖИВАНИЮ.
+Отмена.
 0000119:
-A game guide you "ordered" a while ago. You've studied it so 
-many times that the pages have been looking worn as of late.\.
-There is nothing wrong with wanting to be prepared.
+Игровое руководство, которое ты недавно "заказала". Ты изучила
+его так много раз, что мятые страницы уже выглядели старыми.
+Нет ничего предрассудительного в том, чтобы быть готовым.
 Событие №:10
 0000120:Варианты выбора:
-Byakuren: Examine SCROLL CABINET.
-Cancel.
+Бякурен: Изучить ШКАФ ДЛЯ СВИТКОВ.
+Отмена.
 0000121:
-This is your scroll cabinet. Everything you've scribed goes 
-here. It's pretty much your hobby to write IMPORTANT 
-THINGS down for future generations to follow. 
-Maybe. Someday. You hope.
+Это твой шкаф для свитков. Всё тобою написанное отправляется
+сюда. Твоим хобби вполне можно назвать записывание ВАЖНЫХ ВЕЩЕЙ
+с той целью, чтобы им следовали будущие поколения.
+Наверное. Когда-нибудь. Ты надеешься.
 Событие №:11
 0000122:Варианты выбора:
-Byakuren: Examine SCROLL PILE.
-Cancel.
+Бякурен: Изучить ГРУДУ СВИТКОВ.
+Отмена.
 0000123:
-You've been writing quite a lot lately. Your latest work has 
-a lot to do with ATTAINING NIRVANA. Such a shame that 
-it's TOO LATE FOR YOU.
+Последнее время ты писала довольно много. Твоя последняя работа
+была всецело посвящена ДОСТИЖЕНИЮ НИРВАНЫ. Какая жалость,
+что теперь уже СЛИШКОМ ПОЗДНО ДЛЯ ТЕБЯ.
 Событие №:12
 0000124:Варианты выбора:
-Byakuren: Examine WORN DOCUMENT.
-Cancel.
+Бякурен: Изучить МЯТЫЙ ДОКУМЕНТ.
+Отмена.
 0000125:
-This is a VERY IMPORTANT HISTORICAL DOCUMENT which 
-you have been studying for some time now. You believe it 
-may hold secrets to UNLOCKING THE MYSTERIES OF 
-THE UNIVERSE.
+Это ОЧЕНЬ ВАЖНЫЙ ИСТОРИЧЕСКИЙ ДОКУМЕНТ, который
+ты изучаешь уже некоторое время. Ты веришь, что он
+может хранить секреты для РАСКРЫТИЯ ТАЙН 
+ВСЕЛЕННОЙ.
 0000126:
-...To be honest, it just seems like a bunch of CRYPTIC MESSAGES 
-that probably don't pertain to anything. It's entertaining to read
-anyway.
+...Честно говоря, по всей видимости это лишь куча
+ШИФРОВАННЫХ СООБЩЕНИЙ, которые, вероятно, ничего не значат.
+Но их интересно читать всё равно.
 Событие №:13
 0000127:Варианты выбора:
-Byakuren: Examine DUBIOUS PLANT.
-Cancel.
+Бякурен: Изучить ПОДОЗРИТЕЛЬНОЕ РАСТЕНИЕ.
+Отмена.
 0000128:
-This plant isn't very flashy-looking, and you appreciate it
-for that. It's one of the few things you tolerate having around 
-in your room.
+Это растение не слишком примечательно, и ты ценишь его
+за это. Оно - одна из тех вещей, которым ты позволяешь
+находиться в своей комнате.
 
 
 ||||||||||||||КАРТА 010||||||||||||||
@@ -487,108 +487,108 @@ in your room.
 Событие №:3
 Событие №:4
 0000129:
-It looks like your package has finally arrived.
+Похоже, твоя посылка в конце концов прибыла.
 0000130:
 
 0000131:Варианты выбора:
-Byakuren: Captchalogue package.
+Бякурен: Капчалогировать посылку.
 0000132:
 
 0000133:Варианты выбора:
-Byakuren: Exposit on whatever that was all about.
+Бякурен: Обьяснить, что это сейчас было.
 0000134:
-Oh, that's right. You had recently switched out your
-fetch modus for INVENTORRENT like everyone else
-when you all decided to play this game. It's what you
-use as sort of like an inventory. Like in the video games.
+Ох, точно. Ты недавно переключила свой метод доступа
+на ИНВЕТОРРЕНТ, как и все остальные, когда вы решили
+играть в эту игру. Это то, что ты используешь как 
+инвентарь. Прямо как в видеоиграх.
 0000135:
-Everything you captchalogue can be seeded and leeched 
-by everyone you have in your file sharing group to
-erase the hassles of captcha codes in order to ensure 
-a successful group effort.
+Всё, что ты капчалогируешь, может сидироваться и личиться
+всеми, с кем ты состоишь в твоей файлообменной группе.
+Так было сделано для избавления от недостатков капча-кодов
+и для достижения успешного группового взаимодействия.
 0000136:
-This is also to make sure that nobody captchalogues
-anything harmful while working with others as all items
-are visible to everyone in the group.
+Кроме того, это позволит убедиться, что никто не
+капчалогирует что-нибудь опасное, работая с другими,
+поскольку все вещи видимы для всех в группе.
 0000137:
-Thankfully, it has a system that allows you to either set
-captchalogued items to public or private. Yours has been 
-set to public by default as you totally have nothing to hide. 
+К счастью, в нем есть система, позволяющая тебе делить 
+капчалогированные вещи на публичные и приватные. Твой был 
+установлен на публичный по умолчанию, тебе нечего скрывать.
 0000138:
-However, the file sharing was rigged to not activate until both 
-team leaders approve. You and this other person have agreed 
-not to activate it until everyone is playing the game. For now, it 
-works like a regular fetch modus. It's a pretty handy fetch modus.
+Однако, файлообменная система настроена так, чтобы не активироваться, 
+пока оба лидера комманд не согласятся. Ты и другой человек решили не
+активировать её, пока все не станут играть в игру. Пока что он работает
+как обычный метод доступа. Это довольно удобный метод доступа.
 0000139:
 
 0000140:Варианты выбора:
-Byakuren: Return to room.
+Бякурен: Вернуться в комнату.
 0000141:
-You should open that package and see what you got.
+Ты должна открыть эту посылку и узнать, что ты получила.
 
-So exciting.
+Так волнующе.
 0000142:
-This leads outdoors. No reason to go out there yet.
+Она ведёт наружу. Пока нет причины выходить.
 Событие №:5
 0000143:
-This is the storage room. Theres no reason for you to go 
-in here at the moment.
+Это кладовая. Сейчас у тебя нет причины
+туда заходить.
 Событие №:6
 Событие №:7
 Событие №:8
 Событие №:9
 0000144:Варианты выбора:
-Byakuren: Examine URN.
-Cancel.
+Бякурен: Изучить УРНУ.
+Отмена.
 0000145:
-This is where your BROTHER'S ASHES are. He died quite
-sometime ago and ever since then you've been wary about
-death yourself. Especially in the same nature as his death.
+В ней хранится ПРАХ ТВОЕГО БРАТА. Он умер некоторое время
+назад, и с тех пор ты сама стала беспокоиться о смерти.
+Особенно о той смерти, какой умер он.
 0000146:
-You don't remember much about his death, though.\.
+Всё же, ты помнишь не так много о его смерти.\.
 
-Or rather, you choose not to. 
+Или скорее, ты решила не помнить.
 Событие №:10
 0000147:Варианты выбора:
-Byakuren: Examine OFFERING.
-Cancel.
+Бякурен: Изучить ПОДНОШЕНИЕ.
+Отмена.
 0000148:
-It's only respectful to leave OFFERINGS for the dead. If 
-they came back from the grave and notice that you've been 
-neglectful of them, they'd be pretty sore. Or something.
-Like those zombie movies.
+Оставлять ПОДНОШЕНИЯ мёртвым - лишь признак уважения. Если
+они вернуться из могилы и заметят, что ты ими 
+пренебрегала, они могут обидеться. Или вроде того.
+Как в тех фильмах о зомби.
 Событие №:11
 0000149:Варианты выбора:
-Byakuren: Examine SHITTY CANDLES.
-Cancel.
+Бякурен: Изучить ХРЕНОВЫЕ СВЕЧКИ.
+Отмена.
 0000150:
-It's a plate of incredibly SHITTY CANDLES. You didn't want 
-to waste them so you've been leaving them unlit. Like a lot
-of things, candles are hard to get these days.
+Это тарелка с невероятно ХРЕНОВЫМИ СВЕЧКАМИ. Ты не хочешь
+тратить их, поэтому ты оставляла их незажжёнными. Сейчас
+свечи достать сложнее, как и многие другие вещи.
 Событие №:12
 0000151:Варианты выбора:
-Byakuren: Examine BORING PLANT.
-Cancel.
+Бякурен: Изучить СКУЧНОЕ РАСТЕНИЕ.
+Отмена.
 0000152:
-It's another PLANT. However, it's not as neat as the plant in 
-your room so you gave it to your brother instead. Hopefully, 
-he appreciates the gesture.
+Это ещё одно РАСТЕНИЕ. Однако, он не такой аккуратный, как тот
+в твоей комнате, поэтому ты отдала его брату. Хочется верить,
+что он ценит этот жест.
 Событие №:13
 0000153:Варианты выбора:
-Byakuren: Examine SHOE CABINET.
-Cancel.
+Бякурен: Изучить ЯЩИК С ОБУВЬЮ.
+Отмена.
 0000154:
-You haven't gone outside for quite a while now. Even then, 
-this looks empty either way. It's half as empty since your 
-brother's passing. 
+Ты не выходила наружу уже довольно довно. Даже при этом
+он всё равно выглядит пустым. Он наполовину пуст
+с тех пор, как твой брат тебя покинул.
 Событие №:14
 0000155:Варианты выбора:
-Byakuren: Examine SHOE CABINET.
-Cancel.
+Бякурен: Изучить ЯЩИК С ОБУВЬЮ.
+Отмена.
 0000156:
-You haven't gone outside for quite a while now. Even then, 
-this looks empty either way. It's half as empty since your 
-brother's passing. 
+Ты не выходила наружу уже довольно довно. Даже при этом
+он всё равно выглядит пустым. Он наполовину пуст
+с тех пор, как твой брат тебя покинул.
 
 
 ||||||||||||||КАРТА 011||||||||||||||
@@ -596,54 +596,54 @@ brother's passing.
 Событие №:1
 Событие №:2
 0000157:Варианты выбора:
-Byakuren: Examine BATHTUB.
-Cancel.
+Бякурен: Изучить ВАННУ.
+Отмена.
 0000158:
-There was once this famous guy who wrote while in his 
-bathtub. You wonder how hard it was for him to keep the 
-paper dry. Nevertheless, you contemplate of doing the 
-same thing someday...
+Когда-то был один знаменитый парень, который писал,
+сидя в ванне. Ты думаешь, как ему было сложно
+сохранять бумагу сухой. Вне зависимости от этого,
+ты намереваешься сделать то же самое когда-нибудь...
 0000159:
-No, that would mean you'd be indulging yourself, so you
-decide against it.
+Нет, это значило бы, что ты потворстуешь себе,
+поэтому ты решила отказаться.
 Событие №:3
 0000160:Варианты выбора:
-Byakuren: Examine BATHTUB.
+Бякурен: Изучить ВАННУ.
 Cancel.
 0000161:
-There was once this famous guy who wrote while in his 
-bathtub. You wonder how hard it was for him to keep the 
-paper dry. Nevertheless, you contemplate of doing the 
-same thing someday...
+Когда-то был один знаменитый парень, который писал,
+сидя в ванне. Ты думаешь, как ему было сложно
+сохранять бумагу сухой. Вне зависимости от этого,
+ты намереваешься сделать то же самое когда-нибудь...
 0000162:
-No, that would mean you'd be indulging yourself, so you
-decide against it.
+Нет, это значило бы, что ты потворстуешь себе,
+поэтому ты решила отказаться.
 Событие №:4
 0000163:Варианты выбора:
-Byakuren: Look outside.
-Cancel.
+Бякурен: Выглянуть наружу.
+Отмена.
 0000164:
-There's nothing outside. You're situated somewhat near 
-the mountains. So unless you want to look at squirrels, 
-or an empty road, there's really nothing of interest 
-to see here.
+Снаружи ничего. Ты находишься где-то возле горной
+местности. Так что если ты не хочешь наблюдать за
+белками или пустой дорогой, там действительно
+не на что смотреть.
 Событие №:5
 0000165:Варианты выбора:
-Byakuren. Examine SINK.
-Cancel.
+Бякурен: Изучить РАКОВИНУ.
+Отмена.
 0000166:
-You've got your MODEST GARBS on and your hair is 
-the usual GRADIENT as always. 
+На тебе твои СКРОМНЫЕ ОДЕЯНИЯ, и твои волосы 
+традиционно ГРАДИЕНТНЫЕ, как и всегда.
 
-Nothing to see here.
+Здесь не на что смотреть.
 Событие №:6
 0000167:Варианты выбора:
-Byakuren: Examine TOILET.
-Cancel.
+Бякурен: Изучить туалет.
+Отмена.
 0000168:
-This piece of plumbing has been with you for years.
-It's older than you, definitely. It has not, even once, broken 
-on you. Good toilet, best friend.
+Этот предмет сантехники был с тобой годами. Она определенно
+старше тебя. Она никогда не ломался при тебе, ни разу. 
+Хороший туалет, лучший друг.
 
 
 ||||||||||||||КАРТА 012||||||||||||||
@@ -652,47 +652,47 @@ on you. Good toilet, best friend.
 Событие №:2
 Событие №:3
 0000169:Варианты выбора:
-Byakuren: Examine MICROWAVE.
+Бякурен: Изучить МИКРОВОЛНОВКУ.
 Cancel.
 0000170:
-You're not sure if it's safe to even keep one around.
-These days, microwaves run on nuclear power and
-you have no idea why but you're definitely sure it's
-unhealthy to most of the population.
+Ты даже не уверена, что она безопасна.
+В настоящее время микроволновки работают на ядерной 
+энергии и ты даже не представляешь почему, но ты
+совершенно уверена, что это вредит здоровью населения.
 0000171:
-If anything, it shortens life spans which is
-something you'd want to avoid. A useless
-device, indeed. Such a shame to the rest of the
-lazy populace out there that don't realize this.
+В любом случае, это сокращает продолжительность
+жизни, чего тебе определенно хотелось бы избежать.
+Действительно бесполезное устройство. Так жаль,
+что всё то ленивое население этого не осознаёт.
 0000172:
-So shameful!
+Так жаль!
 Событие №:4
 0000173:Варианты выбора:
-Byakuren: Examine DISHWASHER.
-Cancel.
+Бякурен: Изучить ПОСУДОМОЕЧНУЮ МАШИНУ.
+Отмена.
 0000174:
-There's nothing in there but a few bowls. Your brother used to 
-be quite good at magic tricks involving bowls. But, nowadays, 
-you just eat  from them. Their circus act days are over. 
+В ней ничего, кроме нескольких чаш. Твой брат раньше
+неплохо умел вытворять магические трюки, в том числе с чашами.
+Но сейчас ты всего лишь ешь из них. Их цирковые дни закончились.
 Событие №:5
 0000175:Варианты выбора:
-Byakuren: Examine STOVE.
-Cancel.
+Бякурен: Изучить плиту.
+Отмена.
 0000176:
-Clean as usual. You will never allow animal blood to 
-be spilled on anything you eat. You have kept to a 
-healthy vegan diet so you haven't really touched
-the stove as much.
+Чистая, как обычно. Ты никогда не позволишь крови
+животных быть пролитой на то, что ты ешь. Ты соблюдаешь
+здоровую веганскую диету, так что ты довольно
+редко пользуешься плитой.
 Событие №:6
 0000177:Варианты выбора:
-Byakuren: Examine NORMAL PLANT.
-Cancel.
+Бякурен: Изучить ОБЫЧНОЕ РАСТЕНИЕ.
+Отмена.
 0000178:
-No matter how you look at it, it's just a normal houseplant.
+Как на него не посмотри, это всего лишь обычное комнатное растение.
 Событие №:7
 0000179:Варианты выбора:
-Byakuren: Examine CHAIR GRAFFITI.
-Cancel.
+Изучить НАСТУЛЬНОЕ ГРАФФИТИ.
+Отмена.
 0000180:
 [2:49:26 PM] SpaceGhostPurpp: O'DOYLE RULEZ
 
@@ -705,96 +705,98 @@ Cancel.
 Событие №:4
 Событие №:5
 0000181:Варианты выбора:
-Byakuren: Examine DUST PAN.
-Cancel.
+Бякурен: Изучить СОВОК.
+Отмена.
 0000182:
-You make sure that the house is kept clean at all times. 
-Though, sometimes, you wish that you could just hire a 
-person to do this.
+Ты следишь за тем, чтобы дом всегда был чистым.
+Впрочем, иногда ты желаешь о том, чтобы ты могла
+просто нанять кого-нибудь, кто занимался бы этим.
 Событие №:6
 0000183:Варианты выбора:
-Byakuren: Examine NEATLY FOLDED FABRICS.
-Cancel. 
+Бякурен: Изучить АККУРАТНО СЛОЖЕННЫЕ ТКАНИ.
+Отмена. 
 0000184:
-There's not much in here. Everything else is in the 
-cabinet in your room. 
+Их тут не так много. Всё остальное в шкафу
+в твоей комнате. 
 Событие №:7
 0000185:Варианты выбора:
-Byakuren: Examine BUDDHA STATUE.
-Cancel.
+Бякурен: Изучить СТАТУЮ БУДДЫ.
+Отмена.
 0000186:
-You're pretty sure that keeping one around your house will 
-ensure prosperity and all that other good stuff, yeah.
-It also looks good here in the hallway, you have to admit.
+Ты не сомневаешься в том, что хранение такого в твоем доме
+обеспечит процветание и прочие такие обещанные вещи, да.
+А ещё ты признаёшь, что она смотрится уместно в прихожей.
 Событие №:8
 0000187:Варианты выбора:
-Byakuren: Examine BUDDHA STATUE.
-Cancel.
+Бякурен: Изучить СТАТУЮ БУДДЫ.
+Отмена.
 0000188:
-You're pretty sure that keeping one around your house will 
-ensure prosperity and all that other good stuff, yeah.
-It also looks good here in the hallway, you have to admit.
+Ты не сомневаешься в том, что хранение такого в твоем доме
+обеспечит процветание и прочие такие обещанные вещи, да.
+А ещё ты признаёшь, что она смотрится уместно в прихожей.
 Событие №:9
 0000189:Варианты выбора:
-Byakuren: Examine WALL SCROLL.
-Cancel.
+Бякурен: Изучить НАСТЕННЫЙ СВИТОК.
+Отмена
 0000190:
-It looks like the wall scroll in your room but it's just a 
-convincing replica. 
+Он выглядит, как настенный свиток в твоей комнате, но
+это просто убедительная копия.
 
-Your brother was quite renowned.
+Твой брат был довольно знаменит.
 0000191:
-It almost bothers you.
+Это практически тебя раздражает.
 Событие №:10
 0000192:Варианты выбора:
-Byakuren: Examine PILE OF CLOTHING.
-Cancel.
+Бякурен: Изучить ГРУДУ ОДЕЖДЫ.
+Отмена.
 0000193:
-They look so forlorn, just sitting there but it's none of your
-business. At least not now. You've got a game to play.
+Они выглядят такими несчастными, просто сидя там, но это
+не твоё дело. Не сейчас. Ты должна заняться игрой.
 Событие №:11
 0000194:Варианты выбора:
-Byakuren: Examine BROOM.
-Cancel.
+Бякурен: Изучить МЕТЛУ.
+Отмена.
 0000195:
-You make sure that the house is kept clean at all times. 
-Though, sometimes, you wish that you could just hire a 
-person to do this.
+Ты следишь за тем, чтобы дом всегда был чистым.
+Впрочем, иногда ты желаешь о том, чтобы ты могла
+просто нанять кого-нибудь, кто занимался бы этим.
 Событие №:12
 0000196:Варианты выбора:
-Byakuren: Examine LAUNDRY EQUIPMENT.
-Cancel.
+Бякурен: Изучить ПРАЧЕЧНОЕ ОБОРУДОВАНИЕ.
+Отмена.
 0000197:
-You don't use them much. You absolutely refuse to use most 
-electric appliances since you're quite wary of bills. The 
-only appliance you really use is your computer. Come on,
-you're not really made of money here.
+Ты практически им не пользуешься. Ты совершенно
+отказываешься от использования большинства электроприборов,
+поскольку ты беспокоишься о счетах. Единственное устройство,
+которым ты действительно пользуешься - твой компьютер.
+Да ладно, ты ведь не сделана из денег.
 Событие №:13
 0000198:Варианты выбора:
-Byakuren: Examine LAUNDRY EQUIPMENT.
+Бякурен: Изучить ПРАЧЕЧНОЕ ОБОРУДОВАНИЕ.
 Cancel.
 0000199:
-You don't use them much. You absolutely refuse to use most 
-electric appliances since you're quite wary of bills. The 
-only appliance you really use is your computer. Come on,
-you're not really made of money here.
+Ты практически им не пользуешься. Ты совершенно
+отказываешься от использования большинства электроприборов,
+поскольку ты беспокоишься о счетах. Единственное устройство,
+которым ты действительно пользуешься - твой компьютер.
+Да ладно, ты ведь не сделана из денег.
 Событие №:14
 0000200:Варианты выбора:
-Byakuren: Look outside.
-Cancel.
+Бякурен: Выглянуть наружу.
+Отмена.
 0000201:
-There's nothing outside. You're situated somewhat near 
-the mountains. So unless you want to look at squirrels, 
-or an empty road, there's really nothing of interest 
-to see here.
+Снаружи ничего. Ты находишься где-то возле горной
+местности. Так что если ты не хочешь наблюдать за
+белками или пустой дорогой, там действительно
+не на что смотреть.
 Событие №:15
 0000202:Варианты выбора:
-Byakuren: Examine BORING PLANT.
-Cancel.
+Бякурен: Изучить СКУЧНОЕ РАСТЕНИЕ.
+Отмена.
 0000203:
-It's another plant. It adds some zen in the hallway, 
-in addition to the all the zen that Buddha statue is
-already passin' around. White, hot, zenpocalypse.
+Это ещё одно растение. Оно добавляет ещё больше
+дзена в дополнению ко всему дзену, идущему от
+статуи Будды. Белый, горячий, дзенпокалипсис.
 Событие №:16
 
 
@@ -807,21 +809,24 @@ already passin' around. White, hot, zenpocalypse.
 0000204:
 
 0000205:Варианты выбора:
-Be Byakuren again.
+Снова быть Бякурен
 0000206:
-You are BYAKUREN again.\.
+Ты БЯКУРЕН снова.\.
 0000207:
 
 0000208:Варианты выбора:
-Byakuren: Observe neighborhood.
+Бякурен: Посмотреть вокруг.
 0000209:
-Ah!\. You can see the package being delivered
-from your balcony.\. 
+Ах!\. Ты видишь с балкона, как принесли
+посылку.\. 
 
-Honestly, other than the mail carriers\..\..\..
+Честно говоря, помимо почтальонов\..\..\..
 0000210:
-The roads are empty. 
+Дороги пусты.
 0000211:
+Кровь заполняет пустоты в твоих венах, пульсируя в едином ритме,
+так, словно 
+
 Blood skims the voids in your veins, pumping in uniform precision, 
 as if grazing the hollows of a cut lotus, or say, a despoiled temple.
 0000212:
@@ -867,7 +872,7 @@ You have no idea why they have separate people for this.\.
 0000222:
 
 0000223:Варианты выбора:
-Byakuren: Retrieve package! Again!
+Бякурен: Забрать посылку! Снова!
 Событие №:5
 Событие №:8
 
