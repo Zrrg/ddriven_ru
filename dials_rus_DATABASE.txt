@@ -1,52 +1,52 @@
-||||||||||||||База данных||||||||||||||
+﻿||||||||||||||База данных||||||||||||||
 =================== ГЕРОИ ===================
-1:hungryHoarder
-2:blissfulBillows
-3:bootyDestroyer
-4:drunkenBeast
-5:virtuousBlossom
-6:heianBurden
-7:bombasticVisionary
-8:deadlyVerse
-9:vivaciousHollows
-10:halvedVoltage
-11:vanguardDemolitionist
-12:victoriousVigilante
+1:голодныйСкряга
+2:блаженныеТучи
+3:сундучныйРазоритель
+4:пьяныйЗверь
+5:непорочныйЦветок
+6:хейянскийУвалень
+7:высокомерныйПровидец
+8:сражающийСтих
+9:радушныеОтзвуки
+10:половинчатыйВольтаж
+11:передовойПодрывник
+12:победоносныйВигилант
 13:ballsyHellraiser
-14:MAILBOXSPRITE
-15:UNZANSPRITE
-16:TINYSPRITE
-17:BISHAMONSPRITE
-18:MYOURENSPRITE
-19:GRIFFINSPRITE
-20:TATARASPRITE
-21:YOSHIKASPRITE
-22:MONKEYSPRITE
-23:EMBRYOSPRITE
-24:SOGASPRITE
-25:ONMYOJISPRITE
-26:TANUKISPRITE
+14:ЯЩИКСПРАЙТ
+15:УНЗАНСПРАЙТ
+16:МЕЛКОСПРАЙТ
+17:БИСЯСПРАЙТ
+18:МЁРЕНСПРАЙТ
+19:ГРИФФИНСПРАЙТ
+20:ТАТАРАСПРАЙТ
+21:ЁШИКАСПРАЙТ
+22:ОБЕЗЬЯНСПРАЙТ
+23:ЭМБРИОСПРАЙТ
+24:СОГАСПРАЙТ
+25:ОНМЁДЗИСПРАЙТ
+26:ТАНУКИСПРАЙТ
 27:???
-28:YAMABIKOSPRITE
-29:SHARKSPRITE
+28:ЯМАБИКОСПРАЙТ
+29:АКУЛСПРАЙТ
 =================== КЛАССЫ ===================
 1:N/A
-2:rodkind
-3:ringkind
-4:ladlekind
-5:anchorkind
-6:lampkind
-7:spearkind
-8:scrollkind
-9:tridentkind
-10:broomkind
-11:clawkind
-12:spadekind
-13:bowkind
-14:disckind
+2:прутовидный
+3:кольцевидный
+4:ковшевидный
+5:якоревидный
+6:ламповидный
+7:копьевидный
+8:свитковидный
+9:тризубовидный
+10:метловидный
+11:когтевидный
+12:лопатовидный
+13:луковидный
+14:дисковидный
 15:bladekind
 16:bolakind
-17:jokerkind
+17:джокеровидный
 =================== НАВЫКИ ===================
 1:Attack
 Damages the enemy.
@@ -217,18 +217,15 @@ Axe skill. Powerful attack against 3 random enemies.
 84:Giant's Rampage
 Axe Skill. A strong attack against all enemies.
 85:Tackle
-Attack that may offset an enemy's balance.
-Damage is based on user's ATK and DEF.
+Attack that may offset an enemy's balance.Damage is based on user's ATK and DEF.
 86:Chakra
 User cures all status ailments.
 87:Tiger Stance
 For 3 turns, counterattack and cancel enemy attacks.
 88:No Shadow Kick
-Deal defense ignoring damage to all enemies.
-Skill triggers quicker than usual.
+Deal defense ignoring damage to all enemies.Skill triggers quicker than usual.
 89:Claw Dance
-Claw Skill. Deals damage to one enemy twice.
-Ignores defense.
+Claw Skill. Deals damage to one enemy twice.Ignores defense.
 90:Cover
 For 1 turn, protect allies with low HP.
 91:Provoke
@@ -240,18 +237,15 @@ For 5 turns, greatly boost DEF for party.
 94:Zero Storm
 Spear Skill. Strong attack to 3 random enemies.
 95:Aura Blade
-Sword Skill. Attacked enemy may be silenced.
-Damage is based off user's ATK and MAT.
+Sword Skill. Attacked enemy may be silenced.Damage is based off user's ATK and MAT.
 96:Dispel
 Cancels enemy enchantments.
 97:Magic Barrier
 For 5 turns, greatly boost DEF for party.
 98:Reinforce
-For 5 turns, grants user fire, ice, and lightning
-attributes.
+For 5 turns, grants user fire, ice, and lightningattributes.
 99:Radiant Blade
-Sword Skill. Strong magical attack to all enemies.
-Damage is based on user's ATK and MAT.
+Sword Skill. Strong magical attack to all enemies.Damage is based on user's ATK and MAT.
 100:Yoroidoshi
 Deals defense ignoring damage to one enemy.
 101:Shintou Mekkyaku
@@ -269,11 +263,9 @@ Attacks enemy and lowers DEF.
 107:Zero Shadow
 For 5 turns, greatly boost AGI for user.
 108:Triple Shot
-Bow Skill. Strong attack against 3 random enemies.
-Damage is based on user's ATK and AGI.
+Bow Skill. Strong attack against 3 random enemies.Damage is based on user's ATK and AGI.
 109:Thousand Arrows
-Bow Skill. Strong attack against all enemies 3 times.
-Damage is based on user's ATK and AGI.
+Bow Skill. Strong attack against all enemies 3 times.Damage is based on user's ATK and AGI.
 110:Vanish
 For 5 turns, user is less likely to be attacked.
 111:Flare
@@ -281,11 +273,9 @@ Blinds all enemies.
 112:Thief's Luck
 For 8 turns, greatly boost LUK for user.
 113:Assassin's Edge
-Dagger Skill. Strong attack hits one enemy twice.
-Damage is based on user's ATK and LUK.
+Dagger Skill. Strong attack hits one enemy twice.Damage is based on user's ATK and LUK.
 114:Valiant Edge
-Dagger Skill. Strong attack hits 4 random enemies.
-Damage is based on user's ATK and LUK.
+Dagger Skill. Strong attack hits 4 random enemies.Damage is based on user's ATK and LUK.
 115:Spirit's Blessing
 For 3 turns, party's DEF increases.
 116:Fairy's Breath
@@ -766,14 +756,14 @@ The king of gods dwell in this talisman.
 9:Ship (Object Mode)
 10:Frog Temple (Lillypad)
 =================== СИСТЕМНЫЕ СТРОКИ ===================
-ShopBuy:Buy
-ShopSell:Sell
-ShopCancel:Cancel
-Possession:Possession
-ExpTotal:Current Exp
-ExpNext:To Next %s
-SaveMessage:S A V E
-LoadMessage:L O A D
+ShopBuy:Купить
+ShopSell:Продать
+ShopCancel:Отмена
+Possession:Обладание
+ExpTotal:Опыт
+ExpNext:След.ур. %s
+SaveMessage:С О Х Р А Н Е Н И Е
+LoadMessage:З А Г Р У З К А
 File:Session
 PartyName:%s's Party
 Emerge:%s emerged!
