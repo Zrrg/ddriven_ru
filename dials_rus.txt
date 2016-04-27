@@ -822,48 +822,48 @@ Cancel.
 0000210:
 Дороги пусты.
 0000211:
-Blood skims the voids in your veins, pumping in uniform precision, 
-as if grazing the hollows of a cut lotus, or say, a despoiled temple.
+Кровь заполняет пустоты в твоих венах, пульсируя в неизменном ритме,
+словно играя на срезе лотоса или завывая меж колон ограбленного храма.
 0000212:
-A primordial note is produced.
+В воздухе висит знакомая нота.
 0000213:
 
 
-It's the one Hesitancy plays to keep its followers at bay. 
+Та нота, которую играет Неуверенность, чтобы держать своих последователей на расстоянии.
 0000214:
 
 
-It is your sixteenth birthday, and as with all fifteen preceding it, 
-something feels missing from your life.
+Сегодня твой шестнадцатый День рождения, и, как и в предшествующие ему пятнадцать,
+в твоей жизни опять чего-то ощутимо недостает. 
 0000215:
-The game presently eluding you is only the latest test of faith 
-in the tomes of an unseen anchorite, one to engender a sense 
-not of fidelity, but of skepticism. Her stark chants are those 
-less of a priest than a common tramp.
+Игра, ускользающая из твоих рук - лишь очередная проверка веры в записях 
+невидимой отшельницы, внушающая чувство не правильности, но скептицизма.
+Её суровые песнопения звучат не столько как голос священника, 
+сколь как рассказ обычной бродяги.
 0000216:
-Her gospel is Validation itself. It is a mystery dispersing 
-altogether, like the moon's feigned facade, with even one 
-stone of absolution cast into its oceans. It is the most 
-profane gospel of all.
+Её проповедь есть само Убеждение. Эта тайна, что 
+рассеивается, словно напускной вид Луны, стоит 
+лишь одному камню отпущения упасть в её океаны.
+Эта самая незамысловатая проповедь из всех.
 0000217:
-"It is easy to hate and it is difficult to love. 
-This is how the whole scheme of things works."
+"Легко ненавидеть и трудно любить.
+Так устроен наш мир."
 
--Hotei
+-Хотэй
 0000218:
-Yes, you are positive Hotei said that. 
+Да, ты уверена, что Хотэй сказал это.
 0000219:
-One hundred percent positive.
+На сто процентов уверена.
 0000220:
 
 
 
-\.\.\.You have a feeling it's going to be a long day.
+\.\.\.Ты чувствуешь, что сегодняшний день будет долгим.
 0000221:
-Hopefully, this mail carrier has delivered the RIGHT 
-PACKAGE, the one you've been waiting for ALL DAY.\.
+Хочется верить, этот почтальон доставил НУЖНУЮ
+ПОСЫЛКУ, ту, которую ты ждала ВЕСЬ ДЕНЬ.\.
 
-You have no idea why they have separate people for this.\.
+Ты не представляешь, зачем им разные люди для этого.\.
 0000222:
 
 0000223:Варианты выбора:
@@ -876,140 +876,140 @@ You have no idea why they have separate people for this.\.
 0000223:[имя карты в редакторе="Entrance"]
 Событие №:1
 0000224:
-Who's this douche bag?\.\.
+Это ещё что за идиотина?\.\.
 
-Hey,\. PEEFART SMANGSTANK, show us your NAMETAG!\.
+Эй,\.  ВАГОН ОТХОДОВ , покажи нам свой ИМЕННОЙ ЖЕТОН.!\.
 0000225:
-\c[30]\.\.\.\>                                                 \<NUE HOUJUU\.\c[0]
+\c[30]\.\.\.\>                                                 \<НУЭ ХОДЗЮ\.\c[0]
 0000226:
 
 0000227:Варианты выбора:
-Be Nue.
+Быть Нуэ.
 0000228:
-Your name is NUE. You are currently in the middle of a 
-SHITTY TEMPLE due to PEER PRESSURE.  You have a 
-variety of strange INTERESTS. You love dabbling in 
-CRYPTID LORE and exploring GENETIC MUTATIONS.
+Твоё имя НУЭ. Сейчас ты посреди ГРЁБАНОГО ХРАМА
+из-за ПОДНАЧИВАНИЙ ТОВАРИЩА. У тебя полно всяческих
+странных ИНТЕРЕСОВ. Ты увлекаешься КРИПТОЗООЛОГИЕЙ
+и читаешь про ГЕНЕТИЧЕСКИЕ МУТАЦИИ.
 0000229:
-You also enjoy ROLEPLAYING with your friend but you try to 
-play it off as BEING IRONIC due to your LOW SELF-ESTEEM.
-You are not too fond of SOCIAL NORMS and RULES. That
-stuff just isn't your style.
+Тебе нравится заниматься РОЛЕПЛЕЕМ с подругой, но ты пытаешься
+отыгрывать БУДУЧИ ИРОНИЧНОЙ из-за своей НИЗКОЙ САМООЦЕНКИ.
+Тебя не слишком забоят СОЦИАЛЬНЫЕ НОРМЫ и ПРАВИЛА. Это
+всё не в твоём стиле.
 0000230:
-This is is why you've chosen to live in a very OBSCURE 
-LOCATION. You have a penchant for PRANKS though it's 
-rather hard to prank anyone when you live so far
-away from CIVILIZATION. 
+Именно поэтому ты решила жить в очень ДАЛЁКОЙ
+ГЛУШИ. У тебя есть склонность к РОЗЫГРЫШАМ, хотя
+довольно сложно разыгрывать кого-либо, живя так далеко
+от ЦИВИЛИЗАЦИИ.
 0000231:
-You go by the preachhandle: \c[6]heianBurden\c[0].
+Твой проповедникнейм: \c[6]heianBurden\c[0].
 0000232:
-You \c[6]kinda talk non-chalantly for the most part but can 
-sort OF be INSECURE sometimes YOU guess???!!!\c[0]
+Ты \c[6]говоришь беспечно большую часть времени
+но возможно ТЫ подозреваешь НЕУВЕРЕННО иногда???!!!\c[0]
 0000233:
-At the moment, you've been instructed to visit the
-FROG TEMPLE near your home after hearing about its
-SECRETS from some of your so-called 'friends'.
+Прямо сейчас у тебя были инструкции пойти в ЛЯГУШАЧИЙ
+ХРАМ возле твоего дома после того, как тебе рассказали 
+о его СЕКРЕТАХ некоторые твои так называемые 'друзья'.
 0000234:
 
 0000235:Варианты выбора:
-Nue: Answer HH.
+Нуэ: Ответить HH.
 0000236:
-Alright, that's enough talk, someone's messaging you!\.
+Ладно, достаточно болтовни, кто-то тебе пишет!\.
 0000237:
 \c[1]hungryHoarder [HH]\c[0] 
-started preaching to 
+начал проповедовать для 
 \c[6]heianBurden [HB]\c[0]
 0000238:talk_nazrin5
-!pep!\c[1]HH: Hey, Nue, what’s taking you so 
-long? I told you to check this place out hours ago!
-You're testing my patience here!
+!pep!\c[1]HH: Эй, Нуэ, чего ты там так возишься?
+Я попросила тебя проверить это место несколько
+часов назад! Ты испытываешь моё терпение!
 0000239:talk_nue5
-\c[6]HB: aaaggghhh, seriously, i can’t find the 
-room you’re looking for, okay??? don't try
-and pick a fight here of all places!!!
+\c[6]HB: арргххх, серьёзно, я не могу найти 
+комнату, которая тебе нужна, ладно??? нечего
+наезжать на меня даже в этом месте!!!
 0000240:talk_nazrin1
-!pep!\c[1]HH: You’re close, don’t worry. I mean, 
-like, in terms of temperature, you’re flaming hot.
-Or whatever the term is. Super warm, like my
-hand is getting third degree burns on the grill.
+!pep!\c[1]HH: Ты недалеко, не волнуйся. В смысле,
+если выражать в температуре, то ты пылаешь.
+Каким бы там ни был термин. Супер тепло, как моя 
+рука, получившая ожёг третьей степени от грилля.
 0000241:talk_nazrin6
-!pep!\c[1]HH: I’m just saying you’re seriously 
-near the room, Houjuu.
+!pep!\c[1]HH: Я хочу сказать, ты правда
+рядом с комнатой, Ходзю.
 0000242:talk_nazrin5
-!pep!\c[1]HH: NUE, YOU LITTLE TURDLET!
+!pep!\c[1]HH: НУЭ, АХ ТЫ ПАДЛЮКА!
 0000243:talk_nazrin5
-!pep!\c[1]HH: ARE YOU PAYING ATTENTION?
-QUIT SPACING OUT!
+!pep!\c[1]HH: ТЫ МЕНЯ СЛУШАЕШЬ?
+ХВАТИТ ВИТАТЬ В ВОЗДУХЕ!
 0000244:talk_nue4
-\c[6]HB: oh, wow. okay, sorry. 
+\c[6]HB: ой, ладно. хорошо, прости.
 0000245:talk_nue6
-\c[6]HB: i thought for a second there you were 
-hitting on me or something because that would 
-be weird and i doubt you’d really do that anyway 
-so whatever nevermind. still weird though.
+\c[6]HB: я тогда задумалась на секунду  что
+ты со мной заигрываешь, потому что это было 
+бы странно и я сомневаюсь что ты стала 
+бы так делать, неважно. всё равно странно.
 0000246:talk_nue2
-\c[6]HB: like that'll ever happen.
+\c[6]HB: будто бы такое вообще возможно.
 0000247:talk_nazrin5
-!pep!\c[1]HH: WAIT WHAT?
+!pep!\c[1]HH: ПОГОДИ ЧЕГО?
 0000248:talk_nazrin7
-!pep!\c[1]HH: SERIOUSLY? WHY WOULD YOU 
-EVEN BE THINKING OF THAT NOW? NUE, YOU
-KNOW STUFF LIKE THAT IS SUCH A PANDERY
-WASTE OF TIME.
+!pep!\c[1]HH: СЕРЬЁЗНО? ЧЕГО РАДИ 
+ТЕБЕ ДУМАТЬ О ТАКОМ СЕЙЧАС? НУЭ,
+ЗНАЕШЬ, ТАКИЕ ВЕЩИ СЕЙЧАС ЭТО 
+ИЗДЕВАТЕЛЬСКАЯ ТРАТА ВРЕМЕНИ.
 0000249:talk_nazrin6
-!pep!\c[1]HH: GOD, just… please, rambling later, 
-business now! Priorities! I want you to write down 
-the stuff on the walls. Remember, BB told us 
-about it? Go get them so we can decipher it later. 
+!pep!\c[1]HH: БОЖЕ, просто… ерунда потом,
+дела сейчас! Приоритеты! Я хочу, чтобы ты
+переписала те вещи на стенах. Помнишь, BB сказала
+нам про них? Найди их, мы расшифруем их позже.
 0000250:talk_nue6
-\c[6]HB: uh so i just kinda jot it down or take
-pictures of that stuff, right?
+\c[6]HB: ух ну я просто должна записать
+или сфоткать эти штуки, так?
 0000251:talk_nazrin7
-!pep!\c[1]HH: YES. FOR THE LAST TIME YES. 
-HOLY SHIT ARE YOU STUPID OR WHAT?
+!pep!\c[1]HH: ДА. ЕЩЁ РАЗ ДА.
+ГОСПОДИ ТЫ СОВСЕМ ТУПАЯ ИЛИ КАК?
 0000252:talk_nazrin5
-!pep!\c[1]HH: I mean, I know you’ve been living with nobody 
-but dustmites and crows and whatever but GOD 
-DAMN, Nue! Common sense! I've been following 
-you around for 2 hours and I'm getting tired!
+!pep!\c[1]HH: В смысле, я знаю ты жила с клещами
+и воронами и кем-там-ещё, но ГОСПОДИ, Нуэ!
+Здравый смысл! Я оказывала тебе поддержку
+2 часа и я устаю!
 0000253:talk_nue4
-\c[6]HB: okay OKAY okay just quit being so 
-FUCKIN IMPATIENT i just really don’t like this place, 
-okay? i mean i can handle scary but this is just 
-unnerving. it's always different each time i'm here.
+\c[6]HB: окей ОКЕЙ окей просто перестань быть такой
+БЛЖ НЕТЕРПЕЛИВОЙ мне просто правда не нравится тут, ладно?
+в смысле я могу переносить страх но это просто нервирует. 
+Каждый раз как я прихожу сюда, тут всё по-разному.
 0000254:talk_nazrin1
-!pep!\c[1]HH: Says the scrub that can’t stop 
-sending everyone BMEzine shit. Pft, don't even
-test me.
+!pep!\c[1]HH: Говорит ничтожество, которое не может
+перестать присылать всем хрень с BMEzine.
+Пфф, не пытайся испытывать меня.
 0000255:talk_nazrin6
-!pep!\c[1]HH: Just whatever, okay? Quit being 
-such a moron and just get this stuff done. 
-I would have gladly asked someone else but 
-nobody lives close to this place but you.
+!pep!\c[1]HH: Ну постарайся, ладно? Перестань
+быть такой дурой и просто сделай то, что надо сделать.
+Я бы с радостью попросила кого ещё, но нет никого,
+живущего рядом с этим местом, кроме тебя.
 0000256:talk_nazrin1
-!pep!\c[1]HH: Understand? This is a simple job.
-Sorry for being so harsh, this is just sort of
-a big deal.
+!pep!\c[1]HH: Уяснила? это простая работа.
+Извини за грубость, просто дело это
+очень важное.
 0000257:talk_nue6
-\c[6]HB: yeahhh okay…?
+\c[6]HB: нуу хорошо…?
 0000258:talk_nazrin1
-!pep!\c[1]HH: Good. Send me the code when 
-you’re done. I’ll credit you, I promise, okay? 
-And BB, I guess, but I'm the one doing the code 
-conversion so I automatically get most of the cred.
+!pep!\c[1]HH: Ладно. Пришли мне код, когда 
+справишься. Я отмечу тебя в титрах, обещаю,
+окей? И BB, наверное, но всё же код переписываю я, 
+так что большая часть авторства автоматически моя.
 0000259:talk_nue6
-\c[6]HB: whatever, i don't care.
+\c[6]HB: как скажешь, мне всё равно.
 0000260:talk_nazrin1
-!pep!\c[1]HH: Get to it. Watch out, though.
-She told me this place would be full of traps.
+!pep!\c[1]HH: Достань его. И осторожнее.
+Она сказала, что это место будет кишеть ловушками.
 0000261:talk_nazrin2
-!pep!\c[1]HH: Try not to die.
+!pep!\c[1]HH: Постарайся не умереть.
 0000262:talk_nazrin1
-!pep!\c[1]HH: Seriously.
+!pep!\c[1]HH: Серьёзно.
 0000263:
 
 0000264:Варианты выбора:
-Nue: Retrieve runes.
+Нуэ: Получить руны.
 Событие №:2
 
 
@@ -1020,30 +1020,30 @@ Nue: Retrieve runes.
 0000265:
 
 0000266:Варианты выбора:
-Nue: Answer HH.
+Нуэ: Ответить HH.
 0000267:talk_nue1
-\c[6]HB: alright, so i just write this down...?
+\c[6]HB: так, значит я просто запишу это..?
 0000268:talk_nazrin3
-!pep!\c[1]HH: Congratulations! We're one step
-closer to collecting the entire treasure!
+!pep!\c[1]HH: Поздравляю! Мы на шаг
+ближе к сбору нашего сокровища целиком!
 0000269:talk_nazrin1
-!pep!\c[1]HH: By the way, if you had trouble
-with the traps, I mean, if you haven't already,
-you do realize you can SPRINT, right? I think
-you hold the SHIFT key for that.
+!pep!\c[1]HH: Кстати, если у тебя были проблемы
+с ловушками, в смысле, если ты уже через это прошла,
+ты ведь понимаешь, что можешь БЕГАТЬ, да?
+Я думаю, для этого нужно зажать SHIFT.
 0000270:talk_nazrin2
-!pep!\c[1]HH: But that's just if you suck that bad.\.
+!pep!\c[1]HH: Это на случай, если у тебя всё настолько хреново.\.
 0000271:talk_nue3
-\c[6]HB: heh. 
+\c[6]HB: хех. 
 0000272:
 
 0000273:Варианты выбора:
-Nue: Continue on.
+Нуэ: Продолжить.
 Событие №:3
 0000274:
-Whoa, no wimping out now!
+Эй, не сбегай сейчас!
 
-You gotta collect the CODE!
+Ты должна собрать КОД!
 Событие №:4
 Событие №:5
 Событие №:6
@@ -1063,29 +1063,29 @@ You gotta collect the CODE!
 0000275:
 
 0000276:Варианты выбора:
-Nue: Answer HH.
+Нуэ: Ответить HH.
 0000277:talk_nue6
-\c[6]HB: man, this is such a pain seriously.
-are we done yet??? you know how annoying
-it is grazing all those traps???
+\c[6]HB: блин, это так достало.
+мы ещё не закончили??? знаешь,
+как сложно грейзить все эти ловушки???
 0000278:talk_nazrin2
-!pep!\c[1]HH: Almost there. I can feel it.
-I'm surprised that you haven't croaked yet.
+!pep!\c[1]HH: Почти на месте. Я чувствую.
+Я удивлена, что ты ещё не заквакала.
 0000279:talk_nue1
-\c[6]HB: ...what???
+\c[6]HB: ...что???
 0000280:talk_nazrin1
-!pep!\c[1]HH: It was a frog joke.
-Because we're at the\..\..\.. 
-Nevermind, just keep going.
+!pep!\c[1]HH: Это была лягушачья шутка.
+Потому что мы в\..\..\.. 
+Неважно, продолжай идти.
 0000281:
 
 0000282:Варианты выбора:
-Nue: Keep going.
+Нуэ: Продолжать идти.
 Событие №:3
 0000283:
-You're still not done with collecting the CODE!
+Ты всё еще не закончила со сбором КОДА!
 
-Keep going.\. You can do it.\. I believe in you.\.
+Продолжай идти.\. Ты сможешь.\. Я в тебя верю.\.
 Событие №:4
 Событие №:5
 Событие №:6
@@ -1103,134 +1103,134 @@ Keep going.\. You can do it.\. I believe in you.\.
 0000283:[имя карты в редакторе="Room #3"]
 Событие №:1
 0000284:Варианты выбора:
-Nue: Check out frog.
-Cancel.
+Нуэ: Проверить лягушку.
+Отмена.
 0000285:
-Oh wow, you don't think you've seen a frog in ages!
-If you could, you'd pry open this baby and poke around
-all up in there, but now's not really the time to develop
-batrachomania, huh?
+Ух ты, ты можешь поклясться, что не видела лягушек
+годами! Если б ты могла, ты бы вскрыла эту детку
+и поковырялась внутри, но сейчас не лучшее время
+удовлетворять манию к амфибиям, так?
 0000286:
-Though, it looks like its is offering itself as a CHECKPOINT. 
-Gee, this would have been useful in the last few rooms.\.
-Or not, you're not that much of a wimp that you need
-CHECKPOINTS all the time...\. you think.\.
+Всё же, видимо она позиционирует себя как ЧЕКПОИНТ.
+Брр, это было бы полезно в некоторых последних комнатах.\.
+Или нет, ты ведь не настолько занудна, чтобы тебе 
+постоянно были нужны ЧЕКПОИНТЫ...\. ты считаешь.\.
 Событие №:2
 0000287:
 
 0000288:Варианты выбора:
-Nue: Answer HH. Again.
+Нуэ: Ответить HH. Снова.
 0000289:talk_nue1
-\c[6]HB: so umm, yeah, we're almost done
-here, right? i'm sorry, this is just really
-tedious and annoying.
+\c[6]HB: ну мм, так, мы почти справились, так?
+прости, это правда муторно и раздражающе.
 0000290:talk_nazrin7
-!pep!\c[1]HH: YES. MY \{GOD\}, QUIT COMPLAINING.
+!pep!\c[1]HH: ДА. \{БОЖЕ\}, ПРЕКРАТИ НЫТЬ.
 0000291:talk_nue6
-\c[6]HB: hey, chill, i was just asking...
+\c[6]HB: эй, тише, я просто спрашиваю...
 0000292:talk_nue7
-!gif10!\c[6]HB: control your temper, why don't you?
+!gif10!\c[6]HB: держи себя в руках, пожалуйста?
 0000293:talk_nazrin7
-!pep!\c[1]HH: MAN, IF ONLY I COULD HAVE
-DONE THIS WITH SOMEONE WHO DIDN'T ASK
-SO MANY QUESTIONS AND COMPLAIN
-ALL THE TIME.
+!pep!\c[1]HH: ЕСЛИ БЫ ТОЛЬКО Я МОГЛА
+СДЕЛАТЬ ЭТО С КЕМ-ТО, КТО НЕ СПРАШИВАЕТ
+ВОПРОСОВ И НЕ ЖАЛУЕТСЯ 
+ВСЁ ВРЕМЯ.
 0000294:talk_nue5
-\c[6]HB: i'm the one risking my ass and not
-you, so quit being so pissy already!
-i'm DOING this AS fast AS i CAN!
+\c[6]HB: я одна рискую своей задницей, а не ты
+так что перестань уже быть такой мерзкой уже!
+Я ДЕЛАЮ это ТАК быстро, как я МОГУ!
 0000295:talk_nazrin2
-!pep!\c[1]HH: Whoa, calm down, Houjuu! I'll chill.\.
+!pep!\c[1]HH: Эй, остынь, Ходзю. Я спокойна.\.
 
-Heh heh heh.\. 
+Хе хе хех.\. 
 0000296:talk_nue1
-\c[6]HB: what??? what's so funny???
+\c[6]HB: чего??? что смешного?
 0000297:talk_nazrin3
-!pep!\c[1]HH: Just thinking about how you'll do 
-anything if I just yell at you a little, that's kind of 
-why I'm doing it. "NUE GO JUMP THAT FENCE,
-YOU LITTLE NERD," and you'll do it.
+!pep!\c[1]HH: Просто думаю о том, как бы ты могла
+делать всё, стоит мне только покричать слегка,
+поэтому я так делаю "НУЭ ИДИ ПЕРЕПРЫГНИ ЗАБОР,
+ЗАДРОТИНА" и ты сделаешь это.
 0000298:talk_nazrin2
-!pep!\c[1]HH: So funny. What a funny individual,
-this Nue Houjuu is.
+!pep!\c[1]HH: Так забавно. Какая забавная личность
+эта Нуэ Ходзю.
 0000299:talk_nue5
-\c[6]HB: whatever!!! i would have done it if
-you weren't being rude, you know!!!
+\c[6]HB: какая разница!!! я бы уже закончила
+если бы ты не была грубой, знаешь ли!!!
 0000300:talk_nazrin3
-!pep!\c[1]HH: Nah, I don't think so! You'd
-probably think I was hitting on you just
-because I was being nice for two seconds!
-"WOW THEY SAID HI, THEY MUST LIKE ME!"
+!pep!\c[1]HH: Неа, сомневаюсь! Ты б
+стала воображать, что я с тобой заигрываю
+только потому, что я была милой на две секунды!
+"ОГО, ОНА СКАЗАЛА ПРИВЕТ, Я ЕЙ НРАВЛЮСЬ!"
 0000301:talk_nazrin3
-!pep!\c[1]HH: I mean, the thirst is almost
-unbearable here. I know I'm good-looking 
-and all but I'm just here for the treasure, 
-dude. Sorry for being so distracting!
+!pep!\c[1]HH: Я хочу сказать, жажда тут
+практически непреодолима. Я знаю, что
+я красива, но я тут только ради сокровища,
+подруга. Прости, что я тебя этим отвлекаю!
 0000302:talk_nue5
-\c[6]HB: what are you even going on about???
-you really think i like you!!!??? i only did this
-because hijiri told me to listen to you!!!
+\c[6]HB: да о чём ты вообще??? ты правда 
+думаешь что ты мне нравишься!!!??? я делаю это лишь
+потому, что хидзири попросила слушать тебя!!!
 0000303:talk_nazrin3
-!pep!\c[1]HH: Yeah, I mean, who doesn't like me?
-I've got everyone mackin' on me from left to
-right. I'm like Treasure numero uno. Come on!
-Unfortunately, there isn't enough me to go around!
+!pep!\c[1]HH: Ну, в смысле, а кому я не нравлюсь?
+Куда не плюнь, все западают на меня. Я как
+сокровище нумеро уно. Да ладно!
+К сожалению, меня на всех не хватит!
 0000304:talk_nue6
-\c[6]HB: okay, now, you're just messing with me.
+\c[6]HB: так, сейчас ты просто издеваешься надо мной.
 0000305:talk_nazrin1
-!pep!\c[1]HH: Yeah, I was, that was all bullshit.
+!pep!\c[1]HH: Ага, точно, это всё пиздёж.
 0000306:talk_nazrin1
-!pep!\c[1]HH: I'm pretty sure we'd get things
-done faster if I just yelled at you constantly
-instead of praising you for every little thing
-you did. This isn't an asspat party.
+!pep!\c[1]HH: Я не сомневаюсь, что мы закончили
+бы дела быстрее, если бы я просто кричала на тебя,
+вместо восхваления каждой мелочи, которой ты добилась.
+Это тебе не вечеринка жополизов.
 0000307:talk_nazrin1
-!pep!\c[1]HH: Grow up.
+!pep!\c[1]HH: Вырасти.
 0000308:talk_nue3
-\c[6]HB: grow up, yeah, sure, says the midget.
+\c[6]HB: вырасти, ага, сказал карлик.
 0000309:talk_nazrin1
-!pep!\c[1]HH: Wow. I am so offended right now.
-Look at that magnificent diss that wasted me 
-three seconds. Wow, so worth my time.
+!pep!\c[1]HH: Ого. Я так оскорблена сейчас.
+Посмотри на невероятное неуважение, которое
+потратило три секунды моего времени. Ого,
+моё время того стоило.
 0000310:talk_nue6
-\c[6]HB: i meant your temper, you didn't have 
-to go asswild egobaiting and berating me all
-over the place.
+\c[6]HB: я имела ввиду твой характер, тебе
+не стоило срываться, чтобы травить и ругать 
+меня постоянно без причины. 
 0000311:talk_nazrin1
-!pep!\c[1]HH: Joking aside, seriously, you're 
-pretty much there already. No need to keep 
-running off your mouth anymore. This isn't
-a marathon. I was just kidding around.
+!pep!\c[1]HH: Шутки в сторону, серьезно.
+Ты уже почти на месте. Пора перестать 
+соревноваться в болтовне.
+Это не марафон, я просто шутила.
 0000312:talk_nue4
-\c[6]HB: man, why couldn't BB walk me through 
-this instead? she's the one who knows how to 
-read this stuff raw, right???\.
+\c[6]HB: блин, почему BB не могла провести меня
+через это? она ведь та, кто умеет читать это
+без перевода, так???\.
 0000313:talk_nue6
-\c[6]HB: and she's way nicer than you by a 
-long-shot.
+\c[6]HB: и она гораздо милее тебя
+в перспективе.
 0000314:talk_nazrin6
-!pep!\c[1]HH: Because, if her guardian found out
-she was in on this, she'd probably be in big
-trouble and then we'd lose the only person who
-knew what the runes actually mean.
+!pep!\c[1]HH: Потому что, если её страж
+узнает, что она в этом замешана, у неё наверняка
+будут проблемы и мы потеряем единственного
+человека, знающего значение рун.
 0000315:talk_nazrin7
-!pep!\c[1]HH: AND THEN, I WOULDN'T BE ABLE
-TO WRITE THE CODE AND I'D BE DEPRIVED
-OF ANY POSSIBLE VALUABLES.
+!pep!\c[1]HH: А ЗНАЧИТ, Я НЕ СМОГУ НАПИСАТЬ
+КОД И Я ЛИШУСЬ ВСЕХ 
+ВОЗМОЖНЫХ ЦЕННОСТЕЙ.
 0000316:talk_nue2
-\c[6]HB: you just want to impress everyone, huh?
+\c[6]HB: ты ведь хочешь всех впечатлить, да?
 0000317:talk_nazrin1
-!pep!\c[1]HH: I don't want to hear that from you
-of all people.\. Just get going.\.
+!pep!\c[1]HH: Я не хочу слышать это от тебя
+в особенности.\. Просто продолжай идти.\.
 0000318:
 
 0000319:Варианты выбора:
-Nue: Just get going.
+Нуэ: Просто продолжать идти.
 Событие №:3
 0000320:
-CODE collecting's still not done! Keep going!
+Собирание КОДА всё ещё не завершено! Продолжай идти!
 
-You're almost there!
+Ты почти закончила!
 Событие №:4
 Событие №:6
 Событие №:8
@@ -1266,26 +1266,26 @@ You're almost there!
 0000321:
 
 0000322:Варианты выбора:
-Nue: Contact HH.
+Нуэ: Связаться с HH.
 0000323:talk_nue1
-\c[6]HB: um... there's a part missing.
+\c[6]HB: м... тут недостаёт части.
 0000324:talk_nazrin4
-!pep!\c[1]HH: Aw, what?
+!pep!\c[1]HH: Ох, чего?
 0000325:talk_nazrin6
-!pep!\c[1]HH: Whatever, just get what you can.
-I'll find out myself.
+!pep!\c[1]HH: Неважно, достань что сможешь.
+Я разбирусь сама.
 0000326:
 
 0000327:Варианты выбора:
-Nue: Behold rambunctious, radioactive crow.
+Нуэ: Узреть доставучую радиактивную ворону.
 0000328:talk_nazrin1
-!pep!\c[1]HH: Uhh\..\..\.. what's that?\.
+!pep!\c[1]HH: Уфф\..\..\.. это ещё что?\.
 0000329:talk_nue5
-\c[6]HB: oh,\. dammit.\.
+\c[6]HB: ох,\. чёрт.\.
 0000330:
 
 0000331:Варианты выбора:
-Be the egoist.
+Быть эгоистом.
 Событие №:2
 Событие №:3
 
